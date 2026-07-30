@@ -1,0 +1,222 @@
+[
+  {
+    "q": "The Daily Cash Book is used to:",
+    "o": [
+      "Record all financial transactions",
+      "Prepare lesson notes",
+      "Monitor attendance",
+      "Conduct examinations"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Entries in the Daily Cash Book should be made:",
+    "o": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Quarterly"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Every payment voucher must be:",
+    "o": [
+      "Authorized before payment",
+      "Destroyed after payment",
+      "Signed by students",
+      "Approved by parents"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "The Account Officer is responsible for:",
+    "o": [
+      "Maintaining accurate financial records",
+      "Teaching classroom lessons",
+      "Conducting promotions",
+      "Approving retirements"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Receipts issued for funds received provide evidence of:",
+    "o": [
+      "Collection of revenue",
+      "Promotion eligibility",
+      "Student admission",
+      "Staff transfer"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "The bank reconciliation statement compares:",
+    "o": [
+      "Cash book and bank balances",
+      "Lesson notes and timetable",
+      "Attendance and promotion",
+      "Students and teachers"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Bank reconciliation statements are generally prepared:",
+    "o": [
+      "Monthly",
+      "Daily",
+      "Weekly",
+      "Yearly"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "School funds should only be used for:",
+    "o": [
+      "Approved school purposes",
+      "Private business",
+      "Political activities",
+      "Personal expenses"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "The Principal serves as chairman of the:",
+    "o": [
+      "Fund Management Committee",
+      "Student Council",
+      "Disciplinary Tribunal",
+      "Teachers' Union"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "The Fund Management Committee promotes:",
+    "o": [
+      "Financial accountability",
+      "Examination malpractice",
+      "Private expenditure",
+      "Political activity"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Which document shows that payment has been approved?",
+    "o": [
+      "Payment Voucher",
+      "Attendance Register",
+      "Lesson Note",
+      "Promotion Letter"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "An advance granted to staff should be:",
+    "o": [
+      "Properly authorized and accounted for",
+      "Ignored after payment",
+      "Recorded by students",
+      "Approved verbally only"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "One duty of an Executive Officer (Accounts) is to:",
+    "o": [
+      "Ensure prompt collection of revenue",
+      "Conduct promotion interviews",
+      "Supervise examinations",
+      "Approve transfers"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Financial records should promote:",
+    "o": [
+      "Transparency and accountability",
+      "Confusion",
+      "Secrecy",
+      "Favoritism"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Misuse of school funds may result in:",
+    "o": [
+      "Disciplinary action",
+      "Promotion",
+      "Commendation",
+      "Study leave"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "A Principal approves payment without documents. This violates:",
+    "o": [
+      "Financial control procedures",
+      "Promotion guidelines",
+      "Attendance rules",
+      "Transfer rules"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "An Account Officer finds a cash book and bank statement difference. The correct action is to:",
+    "o": [
+      "Prepare reconciliation and investigate",
+      "Ignore it",
+      "Destroy records",
+      "Close account immediately"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A staff financial advance should first receive:",
+    "o": [
+      "Proper authorization",
+      "Secret payment",
+      "Student approval",
+      "Parent authorization"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Unauthorized expenditure discovered by the Fund Management Committee should be:",
+    "o": [
+      "Investigated and reported",
+      "Ignored",
+      "Approved retroactively",
+      "Hidden"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A Principal uses PTA funds for personal travel. This is:",
+    "o": [
+      "Financial misconduct",
+      "Administrative efficiency",
+      "Professional development",
+      "Approved expenditure"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  }
+]

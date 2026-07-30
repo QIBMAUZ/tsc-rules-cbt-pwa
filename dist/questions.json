@@ -1,0 +1,3302 @@
+[
+  {
+    "q": "The Ogun State Post-Primary Teaching Service Commission was established by:",
+    "o": [
+      "Edict No. 5 of 1988",
+      "Education Law No. 7 of 2001",
+      "Public Service Rules of 1991",
+      "Edict No. 3 of June 6, 1991"
+    ],
+    "a": 3,
+    "category": "Commission Establishment"
+  },
+  {
+    "q": "Which of the following is NOT one of the statutory responsibilities of the Ogun State Teaching Service Commission?",
+    "o": [
+      "Appointment of teaching staff",
+      "Issuance of international passports to teachers",
+      "Posting and transfer of staff",
+      "Promotion and discipline of staff"
+    ],
+    "a": 1,
+    "category": "Commission Establishment"
+  },
+  {
+    "q": "Apart from the Chairman and four full-time members, the Commission also consists of how many part-time members?",
+    "o": [
+      "Two",
+      "One",
+      "Three",
+      "Four"
+    ],
+    "a": 0,
+    "category": "Commission Structure"
+  },
+  {
+    "q": "The tenure of office of the Chairman and members of the Commission is determined by the:",
+    "o": [
+      "Permanent Secretary",
+      "Chief Executive of the State",
+      "Principal-General",
+      "Head of Service"
+    ],
+    "a": 1,
+    "category": "Commission Structure"
+  },
+  {
+    "q": "Which office serves as the Secretariat of the Teaching Service Commission?",
+    "o": [
+      "Office of the Chairman",
+      "Office of the Permanent Secretary",
+      "Office of the Principal-General",
+      "Office of the Director of Administration"
+    ],
+    "a": 1,
+    "category": "Commission Structure"
+  },
+  {
+    "q": "The Department of Administration and Supplies comprises the following sections EXCEPT:",
+    "o": [
+      "Personnel Management",
+      "General Administration",
+      "Internal Audit",
+      "Appointments"
+    ],
+    "a": 2,
+    "category": "Administration and Supplies"
+  },
+  {
+    "q": "The Schools and Personnel Emoluments Section is under which department?",
+    "o": [
+      "Administration and Supplies",
+      "Planning, Research and Statistics",
+      "Inspectorate Services",
+      "Finance and Accounts"
+    ],
+    "a": 3,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Which of the following trade unions is officially recognized in Ogun State Teaching Service?",
+    "o": [
+      "Academic Staff Union of Universities (ASUU)",
+      "Senior Staff Association of Nigerian Universities (SSANU)",
+      "Nigerian Union of Teachers (NUT)",
+      "Colleges of Education Academic Staff Union (COEASU)"
+    ],
+    "a": 2,
+    "category": "Trade Unions and Associations"
+  },
+  {
+    "q": "The acronym NUT stands for:",
+    "o": [
+      "National Union of Tutors",
+      "Nigeria Union of Teachers",
+      "National University Teachers",
+      "Nigerian Union of Teachers"
+    ],
+    "a": 3,
+    "category": "Trade Unions and Associations"
+  },
+  {
+    "q": "ANCOPSS means:",
+    "o": [
+      "Association of Nigerian Council of Public Secondary Schools",
+      "Association of National Conference of Public School Supervisors",
+      "Association of Nigerian Conference of Principals of Secondary Schools",
+      "Association of Nigerian Colleges of Public Secondary Schools"
+    ],
+    "a": 2,
+    "category": "Trade Unions and Associations"
+  },
+  {
+    "q": "According to the Manual, there were how many Principals-General, one for each educational division?",
+    "o": [
+      "Two",
+      "Three",
+      "Five",
+      "Four"
+    ],
+    "a": 3,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "Which of the following correctly lists the four educational divisions recognized in the Manual?",
+    "o": [
+      "Lagos, Abeokuta, Ijebu and Oyo",
+      "Remo, Ijebu, Yewa and Egba",
+      "Egba, Oyo, Remo and Ijebu",
+      "Yewa, Ondo, Egba and Ijebu"
+    ],
+    "a": 1,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "Principals-General are expected to operate a mini-Teaching Service Commission at the:",
+    "o": [
+      "Zonal level",
+      "School level",
+      "Divisional level",
+      "State Secretariat"
+    ],
+    "a": 2,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "Principals-General coordinate the activities of:",
+    "o": [
+      "Zonal Secretaries within their respective divisions",
+      "Heads of Departments in tertiary institutions",
+      "Local Government Education Authorities",
+      "Principals of private secondary schools"
+    ],
+    "a": 0,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "Which responsibility is specifically assigned to a Principal-General?",
+    "o": [
+      "Registering teachers",
+      "Holding regular meetings with Zonal Secretaries",
+      "Approving annual school budgets",
+      "Issuing appointment letters"
+    ],
+    "a": 1,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "Through the Permanent Secretary, Principals-General report directly to the:",
+    "o": [
+      "Ministry of Local Government",
+      "Teaching Service Commission",
+      "Civil Service Commission",
+      "State Universal Basic Education Board"
+    ],
+    "a": 1,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "Zonal Offices primarily monitor teaching and non-teaching staff serving in:",
+    "o": [
+      "Technical colleges only",
+      "Public secondary schools within the zone",
+      "Federal Unity Colleges",
+      "Approved private schools"
+    ],
+    "a": 1,
+    "category": "Zonal Office Functions"
+  },
+  {
+    "q": "Cases referred for investigation to the Zonal Office usually originate from:",
+    "o": [
+      "Community Development Associations",
+      "The Teaching Service Commission and the Principal-General",
+      "Parent-Teacher Associations only",
+      "School Prefects"
+    ],
+    "a": 1,
+    "category": "Zonal Office Functions"
+  },
+  {
+    "q": "The day-to-day administration of a Zonal Office is supervised by the:",
+    "o": [
+      "Zonal Secretary",
+      "Senior Principal",
+      "Director of Schools",
+      "Principal-General"
+    ],
+    "a": 0,
+    "category": "Zonal Office Functions"
+  },
+  {
+    "q": "Responsibility for compiling and updating the nominal roll of teaching and non-teaching staff within a zone rests with the:",
+    "o": [
+      "Principal of the largest school",
+      "Administrative Officer of each school",
+      "Director of Personnel Management",
+      "Zonal Secretary"
+    ],
+    "a": 3,
+    "category": "Zonal Office Functions"
+  },
+  {
+    "q": "Under statutory retirement, an officer is due for retirement upon attaining:",
+    "o": [
+      "60 years of age or 35 years of pensionable service",
+      "55 years of age or 30 years of pensionable service",
+      "60 years of age and 40 years of pensionable service",
+      "65 years of age or 35 years of teaching service only"
+    ],
+    "a": 0,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "A retiring officer is expected to give the Commission notice of intention to retire at least:",
+    "o": [
+      "One month before the retirement date",
+      "Two months before the retirement date",
+      "Six months before the retirement date",
+      "Three months before the retirement date"
+    ],
+    "a": 3,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "Voluntary retirement applies where an officer has served for more than:",
+    "o": [
+      "Five years",
+      "Ten years",
+      "Fifteen years",
+      "Twenty years"
+    ],
+    "a": 1,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "A staff member who resigns without giving one month’s notice is required to pay:",
+    "o": [
+      "One month’s basic allowance in lieu of notice",
+      "Three months’ salary in lieu of notice",
+      "The equivalent of annual leave allowance",
+      "One month’s salary in lieu of notice"
+    ],
+    "a": 3,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "Withdrawal of service is guided by conditions stipulated in the Ogun State:",
+    "o": [
+      "Education Law 2001",
+      "Public Service Rules 1991",
+      "Pension Law 2013",
+      "Teaching Service Commission Edict 1991"
+    ],
+    "a": 2,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "In the Manual, a teacher is broadly described as a professional whose work is mainly to:",
+    "o": [
+      "Administer school finance and procurement",
+      "Supervise only non-teaching staff in schools",
+      "Process appointments, promotions and transfers",
+      "Impart knowledge, training, practical skills and understanding"
+    ],
+    "a": 3,
+    "category": "Teacher Responsibilities"
+  },
+  {
+    "q": "A professionally qualified teacher is expected to be duly registered and licensed by the:",
+    "o": [
+      "West African Examinations Council",
+      "Teachers Registration Council of Nigeria",
+      "Joint Admissions and Matriculation Board",
+      "National Youth Service Corps"
+    ],
+    "a": 1,
+    "category": "Professional Qualification"
+  },
+  {
+    "q": "The basic professional teaching certificate recognized in the Teaching Service is:",
+    "o": [
+      "Senior School Certificate",
+      "Ordinary National Diploma",
+      "Trade Test Certificate",
+      "Nigeria Certificate in Education"
+    ],
+    "a": 3,
+    "category": "Professional Qualification"
+  },
+  {
+    "q": "Appointment to a duty post applies to qualified graduates who satisfy criteria laid down by the:",
+    "o": [
+      "Parent-Teacher Association",
+      "Nigerian Union of Teachers",
+      "Teaching Service Commission",
+      "School-Based Management Committee"
+    ],
+    "a": 2,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "Promotion in the Teaching Service is based mainly on satisfying approved conditions such as:",
+    "o": [
+      "Annual Performance Evaluation Reports and interview requirements",
+      "Length of residence in the school community",
+      "Recommendation by students and parents only",
+      "Membership of a recognized teachers’ association"
+    ],
+    "a": 0,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "For promotion to senior posts, a teacher on GL. 07 and above is generally required to:",
+    "o": [
+      "Write the promotion examination and attend interview, except where otherwise stated",
+      "Attend interview only without writing any promotion examination",
+      "Rely only on length of service and seniority",
+      "Submit union membership evidence in place of examination"
+    ],
+    "a": 0,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "For promotion purposes, satisfactory Annual Performance Evaluation Reports are required for:",
+    "o": [
+      "One year",
+      "Two years",
+      "Three years",
+      "Five years"
+    ],
+    "a": 2,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "Which of the following is NOT one of the listed documents required for processing teachers’ retirement benefits?",
+    "o": [
+      "Market receipt",
+      "Birth certificate or declaration of age",
+      "Marriage certificate, where applicable",
+      "Passport photographs"
+    ],
+    "a": 0,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "Rural hardship allowance is payable to staff posted to areas characterized by inadequate:",
+    "o": [
+      "School population, classroom furniture and examination centres",
+      "Teaching subjects, school clubs and sporting activities",
+      "Water supply, health facilities, good roads and electricity",
+      "Staff meetings, promotion interviews and record books"
+    ],
+    "a": 2,
+    "category": "Rural Allowance"
+  },
+  {
+    "q": "To qualify for rural allowance, a staff member must serve in a designated rural area for at least:",
+    "o": [
+      "Six months",
+      "One year",
+      "Two years",
+      "Five years"
+    ],
+    "a": 2,
+    "category": "Rural Allowance"
+  },
+  {
+    "q": "Zonal Disciplinary Committees are established across:",
+    "o": [
+      "Only divisional headquarters",
+      "All Local Government Areas",
+      "Only schools with Principals-General",
+      "Only urban secondary schools"
+    ],
+    "a": 1,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "The Zonal Disciplinary Committee consists of how many listed members?",
+    "o": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "a": 2,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "The Chairman of a Zonal Disciplinary Committee is the:",
+    "o": [
+      "Most Senior Principal in the zone",
+      "Zonal Secretary",
+      "Principal-General of the division",
+      "Senior classroom teacher in the zone"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "In a Zonal Disciplinary Committee, the senior classroom teacher in the zone serves as:",
+    "o": [
+      "Secretary/member",
+      "Chairman",
+      "Prosecuting officer",
+      "Representative of the Commission"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "A teacher seeking transfer of service to another organization must ensure that the new appointment is confirmed and that the receiving body is recognized and licensed by:",
+    "o": [
+      "Teachers Registration Council of Nigeria",
+      "Nigerian Union of Teachers",
+      "National Youth Service Corps",
+      "Parent-Teacher Association"
+    ],
+    "a": 0,
+    "category": "Transfer of Service"
+  },
+  {
+    "q": "For transfer of service, which of the following is NOT among the documents required?",
+    "o": [
+      "Application by the staff member",
+      "Final letter of release",
+      "Last pay certificate",
+      "Personal purchase receipt"
+    ],
+    "a": 3,
+    "category": "Transfer of Service"
+  },
+  {
+    "q": "Teaching and non-teaching staff are entitled to annual leave during:",
+    "o": [
+      "Weekends within the school term",
+      "Public holidays declared during term",
+      "School vacations",
+      "Periods fixed for internal examinations"
+    ],
+    "a": 2,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "One duty of an Executive Officer (Accounts) is to ensure prompt collection of sums due and to:",
+    "o": [
+      "Prepare promotion interview reports",
+      "Approve teachers’ annual leave",
+      "Issue receipts on the appropriate form",
+      "Compile staff nominal rolls"
+    ],
+    "a": 2,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Which of the following is listed among the books or documents to be kept by Account Officers?",
+    "o": [
+      "Students’ continuous assessment file",
+      "Daily Cash Book",
+      "Teachers’ lesson note register",
+      "Library accession catalogue"
+    ],
+    "a": 1,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Entries in the Daily Cash Book are to be made from receipts and payments:",
+    "o": [
+      "At the end of each week",
+      "At the close of each month",
+      "At the end of the financial year",
+      "Daily"
+    ],
+    "a": 3,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Contra entries in the cheque form for petty cash expenses and deductions on salary payment vouchers are to be entered in the:",
+    "o": [
+      "Staff Attendance Register",
+      "Daily Cash Book",
+      "School Textbook Register",
+      "Students’ Admission Register"
+    ],
+    "a": 1,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Before payment is made, every payment voucher must be authorized by the:",
+    "o": [
+      "Principal",
+      "Account Officer",
+      "Fund Management Committee Secretary",
+      "Most senior Vice-Principal"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "The monthly bank reconciliation statement is rendered by:",
+    "o": [
+      "The Fund Management Committee",
+      "Account Officers",
+      "The Principal-General",
+      "The Zonal Disciplinary Committee"
+    ],
+    "a": 1,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Advance to a teacher for transport assistance may be granted only with approval by:",
+    "o": [
+      "The Principal without further approval",
+      "The Fund Management Committee alone",
+      "The Commission after the Principal’s recommendation",
+      "The Zonal Secretary on oral request"
+    ],
+    "a": 2,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Secondary schools and colleges are advised not to grant advances outside the stipulated ones mainly because such action may:",
+    "o": [
+      "Automatically delay staff promotion",
+      "Cause financial loss",
+      "Cancel annual leave entitlement",
+      "Invalidate the school timetable"
+    ],
+    "a": 1,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Post and salary guidelines in the Manual follow the same general guidelines as those in the:",
+    "o": [
+      "Civil Service",
+      "Local Government Education Authority",
+      "Teaching Practice Scheme",
+      "Parent-Teacher Association"
+    ],
+    "a": 0,
+    "category": "Non-Teaching Staff"
+  },
+  {
+    "q": "The Confidential Secretary cadre runs from Assistant Confidential Secretary to:",
+    "o": [
+      "Principal Confidential Officer",
+      "Senior Executive Officer",
+      "Chief Confidential Secretary",
+      "Chief Administrative Assistant"
+    ],
+    "a": 2,
+    "category": "Office Procedures"
+  },
+  {
+    "q": "A clerical officer who passes the prescribed examinations may cross to the:",
+    "o": [
+      "Executive Officer cadre",
+      "Confidential Secretary cadre",
+      "Inspectorate cadre",
+      "Education Officer cadre"
+    ],
+    "a": 0,
+    "category": "Office Procedures"
+  },
+  {
+    "q": "The administrative and academic head of a school is the:",
+    "o": [
+      "Most senior Vice-Principal",
+      "Head of Department",
+      "School Account Officer",
+      "Principal"
+    ],
+    "a": 3,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "A Principal is expected to be pleasant, approachable and conscious of the welfare of:",
+    "o": [
+      "Only teaching staff",
+      "Only members of the Fund Management Committee",
+      "Only school prefects",
+      "Parents, guardians and students"
+    ],
+    "a": 3,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "In maintaining cordial staff relationships, the Principal may delegate authority but must not abdicate:",
+    "o": [
+      "Responsibility for staff union activities",
+      "Duties assigned to the Zonal Secretary",
+      "Overall responsibility for supervision",
+      "Functions reserved for the Principal-General"
+    ],
+    "a": 2,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "Which body is to serve as a channel of communication between the Principal and students?",
+    "o": [
+      "School-Based Management Committee",
+      "Fund Management Committee",
+      "Zonal Disciplinary Committee",
+      "Student Representative Council"
+    ],
+    "a": 3,
+    "category": "Student Welfare"
+  },
+  {
+    "q": "The Fund Management Committee consists of the Principal, the most senior Vice-Principal, the Account Officer and:",
+    "o": [
+      "One teaching staff member",
+      "Three teaching staff members",
+      "Two teaching staff members",
+      "Four teaching staff members"
+    ],
+    "a": 2,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "The Principal is required to give academic leadership because the school is regarded as:",
+    "o": [
+      "A welfare association",
+      "A financial institution",
+      "A disciplinary tribunal",
+      "An academic community"
+    ],
+    "a": 3,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "Where necessary, the Principal is expected to give:",
+    "o": [
+      "Salary advances",
+      "Appointment letters",
+      "Demonstration lessons",
+      "Transfer approvals"
+    ],
+    "a": 2,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "Which of the following is part of the Principal’s academic leadership duties?",
+    "o": [
+      "Delegating all instructional supervision to students",
+      "Keeping abreast of modern educational theory and practice",
+      "Limiting supervision to administrative files only",
+      "Leaving lesson evaluation entirely to parents"
+    ],
+    "a": 1,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "The Principal is expected to ensure that teachers attend classes regularly and that:",
+    "o": [
+      "Teachers’ attendance is assessed only at the end of term",
+      "Heads of Department keep records without supervision",
+      "Teachers’ notes and records are checked regularly",
+      "Students report teachers’ attendance directly to the Commission"
+    ],
+    "a": 2,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "The Principal shall establish communication with parents or guardians at least how many times per school term?",
+    "o": [
+      "Twice",
+      "Three times",
+      "Once",
+      "Four times"
+    ],
+    "a": 2,
+    "category": "Communication with Parents"
+  },
+  {
+    "q": "During school hours, a Principal shall not allow the sale of alcoholic drink in:",
+    "o": [
+      "The Principal’s office during official meetings",
+      "A classroom or students’ assembly",
+      "The school compound during approved ceremonies only",
+      "Staff common room outside instructional periods"
+    ],
+    "a": 1,
+    "category": "Code of Conduct"
+  },
+  {
+    "q": "The Principal is required to keep official secrets and confidential matters relating to:",
+    "o": [
+      "Staff, parents and students",
+      "School contractors only",
+      "Trade unions only",
+      "Community leaders only"
+    ],
+    "a": 0,
+    "category": "Code of Conduct"
+  },
+  {
+    "q": "Which action is expressly prohibited for a Principal during school hours?",
+    "o": [
+      "Checking teachers’ notes and records",
+      "Supervising teaching and learning",
+      "Smoking in a classroom or students’ assembly",
+      "Communicating with parents or guardians"
+    ],
+    "a": 2,
+    "category": "Code of Conduct"
+  },
+  {
+    "q": "The rule that a Principal shall not engage in private business means that such business must not:",
+    "o": [
+      "Require written communication",
+      "Involve any member of staff",
+      "Interfere with school duties",
+      "Be known to parents or guardians"
+    ],
+    "a": 2,
+    "category": "Code of Conduct"
+  },
+  {
+    "q": "The Principal is responsible for collecting and accounting for all funds made available for:",
+    "o": [
+      "Staff welfare activities not approved",
+      "Community ceremonies connected with the school",
+      "Projects initiated outside approved school purposes",
+      "Running the school"
+    ],
+    "a": 3,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Making the list of prescribed textbooks available to parents on request is mainly intended to ensure:",
+    "o": [
+      "Control of unauthorized textbook selection",
+      "Replacement of official school records",
+      "Reduction of teachers’ academic supervision",
+      "Transparency and proper guidance"
+    ],
+    "a": 3,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "The Principal must ensure that students are recorded in the register every school day in accordance with instructions from the:",
+    "o": [
+      "Teaching Service Commission only",
+      "Ministry of Education, Science and Technology",
+      "Parent-Teacher Association",
+      "Student Representative Council"
+    ],
+    "a": 1,
+    "category": "Record Keeping"
+  },
+  {
+    "q": "A Principal who delays reports to parents or guardians on students’ progress is failing in the duty of:",
+    "o": [
+      "Financial reporting to the Commission",
+      "Timely communication on student performance",
+      "Zonal disciplinary supervision",
+      "Staff promotion processing"
+    ],
+    "a": 1,
+    "category": "Communication with Parents"
+  },
+  {
+    "q": "A Principal should promptly report any case where there is reason to suspect:",
+    "o": [
+      "A minor improvement in attendance",
+      "An infectious or contagious disease",
+      "A routine class assessment result",
+      "A normal sporting activity"
+    ],
+    "a": 1,
+    "category": "Student Welfare"
+  },
+  {
+    "q": "The officer expected to give loyal and effective assistance to the Principal in the efficient running of the school is the:",
+    "o": [
+      "Vice-Principal",
+      "Head of Department",
+      "Account Officer",
+      "Zonal Secretary"
+    ],
+    "a": 0,
+    "category": "Vice Principal Responsibilities"
+  },
+  {
+    "q": "Where the Principal is absent, the Vice-Principal is expected to:",
+    "o": [
+      "Refer all routine matters to the Student Representative Council",
+      "Take full control of the school",
+      "Suspend administrative decisions until the Principal returns",
+      "Hand over school administration to the Account Officer"
+    ],
+    "a": 1,
+    "category": "Vice Principal Responsibilities"
+  },
+  {
+    "q": "Disciplinary measures against teachers may include written caution, oral caution and:",
+    "o": [
+      "Annual leave",
+      "Salary advance",
+      "Rural allowance",
+      "Reprimand"
+    ],
+    "a": 3,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "Dismissal, reduction in rank and compulsory retirement are examples of punishment imposed by the:",
+    "o": [
+      "Zonal Disciplinary Committee",
+      "Teaching Service Commission",
+      "School Fund Management Committee",
+      "Student Representative Council"
+    ],
+    "a": 1,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "Disciplinary control over teachers is vested in the Teaching Service Commission under:",
+    "o": [
+      "Section 3 of the Education Law 2001",
+      "Section 8 of Edict No. 3 of 1991",
+      "Section 5 of the Pension Law 2013",
+      "Section 10 of the Public Service Rules"
+    ],
+    "a": 1,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "Which of the following is listed as misconduct that may attract prohibition or suspension from duty?",
+    "o": [
+      "Submission of lesson notes for checking",
+      "Regular attendance at staff meetings",
+      "Proper keeping of class records",
+      "Absence from duty or lateness to school"
+    ],
+    "a": 3,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "A teacher who is absent without leave should report immediately to the Principal, who must report the period of absence to the:",
+    "o": [
+      "Principal-General only",
+      "Zonal Disciplinary Committee only",
+      "Teaching Service Commission",
+      "Parent-Teacher Association"
+    ],
+    "a": 2,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "Where absence is due to sudden illness and authentic duly certified medical evidence is produced, such absence should not by itself lead to:",
+    "o": [
+      "Automatic transfer of service",
+      "Loss of promotion opportunity",
+      "Withdrawal of professional licence",
+      "Cancellation of annual leave entitlement"
+    ],
+    "a": 1,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "A teacher who refuses an official posting by the Commission is liable to:",
+    "o": [
+      "Dismissal from service",
+      "Withdrawal of annual leave",
+      "Loss of rural allowance only",
+      "Reduction of teaching periods"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "According to the Teachers' Code of Conduct, every Principal shall be a professionally trained:",
+    "o": [
+      "Education Officer",
+      "School Administrator",
+      "Teacher",
+      "Civil Servant"
+    ],
+    "a": 2,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "The Code of Conduct requires the Principal to be transparent, impartial and firm in dealings with:",
+    "o": [
+      "Only members of the Fund Management Committee",
+      "Members of staff",
+      "Only Vice-Principals",
+      "Only Heads of Department"
+    ],
+    "a": 1,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "Keeping members of staff informed of matters affecting their welfare and official duties promotes:",
+    "o": [
+      "Openness and effective communication",
+      "Administrative secrecy",
+      "Delegation of disciplinary authority",
+      "Financial accountability"
+    ],
+    "a": 0,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "A Principal shall not use his or her official position to promote the political interests of:",
+    "o": [
+      "Any political party",
+      "The Parent-Teacher Association",
+      "The School-Based Management Committee",
+      "The Nigerian Union of Teachers"
+    ],
+    "a": 0,
+    "category": "Code of Conduct"
+  },
+  {
+    "q": "The Principal is responsible for ensuring proper custody, maintenance and record keeping of:",
+    "o": [
+      "Only instructional materials",
+      "Only office furniture",
+      "All school properties",
+      "Only laboratory equipment"
+    ],
+    "a": 2,
+    "category": "School Property Management"
+  },
+  {
+    "q": "Which of the following reflects a specific professional obligation of every teacher?",
+    "o": [
+      "Attending to non-instructional errands during lesson periods",
+      "Receiving instructions only from students",
+      "Being loyal to the school, the Principal and the teaching profession",
+      "Disregarding official school regulations"
+    ],
+    "a": 2,
+    "category": "Teachers' Code of Conduct"
+  },
+  {
+    "q": "A teacher is expected to serve as a good role model through:",
+    "o": [
+      "Academic qualification alone",
+      "Length of service only",
+      "General conduct, manner, speech and diligence",
+      "Participation in extracurricular activities only"
+    ],
+    "a": 2,
+    "category": "Teachers' Code of Conduct"
+  },
+  {
+    "q": "Teachers shall avoid any conduct capable of bringing disrepute to:",
+    "o": [
+      "Their subject department only",
+      "The teaching profession",
+      "Their school house only",
+      "Their local community only"
+    ],
+    "a": 1,
+    "category": "Teachers' Code of Conduct"
+  },
+  {
+    "q": "The requirement to keep confidential school matters means that teachers shall not:",
+    "o": [
+      "Prepare lesson notes",
+      "Discuss teaching methods during meetings",
+      "Assist students with academic work",
+      "Disclose confidential information without proper authority"
+    ],
+    "a": 3,
+    "category": "Teachers' Code of Conduct"
+  },
+  {
+    "q": "A teacher may undertake remunerative activities outside school hours only with:",
+    "o": [
+      "The express permission of the Principal",
+      "Approval of the Head of Department",
+      "Consent of the Parent-Teacher Association",
+      "Approval of fellow teachers"
+    ],
+    "a": 0,
+    "category": "Teachers' Code of Conduct"
+  },
+  {
+    "q": "Teachers are prohibited from making defamatory statements about fellow teachers or the Principal before:",
+    "o": [
+      "Members of the Teaching Service Commission only",
+      "School inspectors only",
+      "Students or members of the general public",
+      "Parents during official meetings only"
+    ],
+    "a": 2,
+    "category": "Teachers' Code of Conduct"
+  },
+  {
+    "q": "Teachers shall not organize private lessons for their students outside school hours:",
+    "o": [
+      "For a fee",
+      "As part of an officially approved remedial programme",
+      "With written approval from the Commission",
+      "During officially approved school activities"
+    ],
+    "a": 0,
+    "category": "Teachers' Code of Conduct"
+  },
+  {
+    "q": "To discourage the introduction of secret cult activities into schools, teachers may establish:",
+    "o": [
+      "Unapproved student pressure groups",
+      "Commercial cooperative societies",
+      "Teacher-Student Associations and similar approved organizations",
+      "Unregistered after-school associations"
+    ],
+    "a": 2,
+    "category": "Student Welfare"
+  },
+  {
+    "q": "Teachers are expected to attend professional conferences relevant to their official duties when:",
+    "o": [
+      "Officially required",
+      "Arranged outside the approved school programme",
+      "Requested by students",
+      "Sponsored by non-approved training providers"
+    ],
+    "a": 0,
+    "category": "Professional Development"
+  },
+  {
+    "q": "The requirement to teach at least ten periods per week applies subject to:",
+    "o": [
+      "Class allocation and subject requirements",
+      "The needs of the approved school timetable",
+      "Availability of extracurricular activities",
+      "The decision of the Student Representative Council"
+    ],
+    "a": 0,
+    "category": "Teachers' Duties"
+  },
+  {
+    "q": "Teachers are expected to arrive at school at least:",
+    "o": [
+      "Five minutes before opening time",
+      "Ten minutes before opening time",
+      "Twenty minutes before opening time",
+      "Thirty minutes before opening time"
+    ],
+    "a": 1,
+    "category": "Teachers' Duties"
+  },
+  {
+    "q": "A teacher absent on account of illness must support the written report with:",
+    "o": [
+      "A written explanation from another teacher",
+      "A pharmacy receipt",
+      "An acceptable medical certificate",
+      "A hospital appointment card only"
+    ],
+    "a": 2,
+    "category": "Teachers' Duties"
+  },
+  {
+    "q": "Where a teacher is absent without an acceptable reason, the Principal shall report the matter to:",
+    "o": [
+      "The Teaching Service Commission",
+      "The Parent-Teacher Association",
+      "The School-Based Management Committee",
+      "The Students' Representative Council"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "The Manual permits teachers to attend meetings outside normal working hours when required by:",
+    "o": [
+      "Parents and guardians",
+      "The Student Representative Council",
+      "The Teaching Service Commission, the Principal or the Head of Department",
+      "Old Students' Association"
+    ],
+    "a": 2,
+    "category": "Teachers' Duties"
+  },
+  {
+    "q": "Which office serves as the administrative head and accounting office of the Teaching Service Commission?",
+    "o": [
+      "Office of the Chairman",
+      "Office of the Principal-General",
+      "Department of Finance and Accounts",
+      "Office of the Permanent Secretary"
+    ],
+    "a": 3,
+    "category": "Commission Structure"
+  },
+  {
+    "q": "The Chief Executive of the Teaching Service Commission is the:",
+    "o": [
+      "Permanent Secretary",
+      "Principal-General",
+      "Chairman",
+      "Director of Administration and Supplies"
+    ],
+    "a": 2,
+    "category": "Commission Structure"
+  },
+  {
+    "q": "The Teaching Service Commission is concerned mainly with staff administration in:",
+    "o": [
+      "Public post-primary schools",
+      "State-owned tertiary institutions",
+      "Public primary schools",
+      "Federal unity colleges"
+    ],
+    "a": 0,
+    "category": "Commission Structure"
+  },
+  {
+    "q": "Which of the following is one of the core personnel functions of the Commission?",
+    "o": [
+      "Issuance of external examination certificates",
+      "Approval of school-level academic programmes",
+      "Appointment of staff",
+      "Registration of professional associations"
+    ],
+    "a": 2,
+    "category": "Commission Structure"
+  },
+  {
+    "q": "The tenure of the Chairman and members of the Commission is determined by the:",
+    "o": [
+      "Chief Executive of the State",
+      "Permanent Secretary",
+      "Principal-General",
+      "Head of Service"
+    ],
+    "a": 0,
+    "category": "Commission Structure"
+  },
+  {
+    "q": "In the structure of the Commission, the Permanent Secretary serves as:",
+    "o": [
+      "Chairman of the Commission",
+      "Principal-General for all divisions",
+      "Head of all recognized trade unions",
+      "Secretary to the Commission"
+    ],
+    "a": 3,
+    "category": "Commission Structure"
+  },
+  {
+    "q": "The Department of Administration and Supplies is mainly responsible for:",
+    "o": [
+      "Budget performance and evaluation",
+      "Personnel management and general administration",
+      "Software development and evaluation",
+      "Bank reconciliation and salary vouchers"
+    ],
+    "a": 1,
+    "category": "Administration and Supplies"
+  },
+  {
+    "q": "The Finance and Accounts Department is mainly concerned with:",
+    "o": [
+      "Staff appointment and discipline",
+      "Financial management and accounting",
+      "Research, statistics and planning",
+      "Information systems and data processing"
+    ],
+    "a": 1,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "The Planning, Research and Statistics Department assists the Commission mainly through:",
+    "o": [
+      "Staff posting and transfer",
+      "Professional registration of teachers",
+      "Settlement of school disciplinary cases",
+      "Data collection, research and analysis"
+    ],
+    "a": 3,
+    "category": "Planning, Research and Statistics"
+  },
+  {
+    "q": "The Information Technology Department supports the Commission mainly through:",
+    "o": [
+      "Personnel emoluments and salary records",
+      "Promotion interviews and APER compilation",
+      "Zonal disciplinary investigations",
+      "Technology and information systems"
+    ],
+    "a": 3,
+    "category": "Information Technology"
+  },
+  {
+    "q": "Software development and evaluation is handled by the:",
+    "o": [
+      "Department of Administration and Supplies",
+      "Department of Information Technology",
+      "Department of Finance and Accounts",
+      "Department of Planning, Research and Statistics"
+    ],
+    "a": 1,
+    "category": "Information Technology"
+  },
+  {
+    "q": "Budget Performance, Monitoring and Evaluation falls under the:",
+    "o": [
+      "Department of Information Technology",
+      "Department of Planning, Research and Statistics",
+      "Department of Finance and Accounts",
+      "Department of Administration and Supplies"
+    ],
+    "a": 1,
+    "category": "Planning, Research and Statistics"
+  },
+  {
+    "q": "According to the Manual, the Principal-General structure recognizes how many educational divisions?",
+    "o": [
+      "Five",
+      "Six",
+      "Seven",
+      "Four"
+    ],
+    "a": 3,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "Which of the following is one of the educational divisions recognized in the Manual?",
+    "o": [
+      "Remo",
+      "Ikeja",
+      "Ibadan",
+      "Akure"
+    ],
+    "a": 0,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "Which of the following is NOT listed as one of the Principal-General divisions in the Manual?",
+    "o": [
+      "Remo",
+      "Yewa North",
+      "Ijebu",
+      "Egba"
+    ],
+    "a": 1,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "The Nigerian Union of Teachers is recognized in the Teaching Service as a:",
+    "o": [
+      "Trade union",
+      "Professional registration council",
+      "Examination body",
+      "Educational research institute"
+    ],
+    "a": 0,
+    "category": "Trade Unions and Associations"
+  },
+  {
+    "q": "ASUSS stands for:",
+    "o": [
+      "Academic Staff Union of Secondary Schools",
+      "Association of Secondary School Supervisors",
+      "Association of Senior Secondary Schools",
+      "Academic Service Union of Schools"
+    ],
+    "a": 0,
+    "category": "Trade Unions and Associations"
+  },
+  {
+    "q": "ANCOPSS is recognized mainly as an association of:",
+    "o": [
+      "Principals of secondary schools",
+      "Academic staff of universities",
+      "Non-academic school employees",
+      "School account officers"
+    ],
+    "a": 0,
+    "category": "Trade Unions and Associations"
+  },
+  {
+    "q": "Recognized trade unions in the Teaching Service primarily protect the:",
+    "o": [
+      "Professional interests of their members",
+      "Admission rights of students",
+      "Approval of school buildings",
+      "Conduct of external examinations"
+    ],
+    "a": 0,
+    "category": "Trade Unions and Associations"
+  },
+  {
+    "q": "Which of the following is the recognized association for principals of secondary schools?",
+    "o": [
+      "ANCOPSS",
+      "NUT",
+      "ASUSS",
+      "NASU"
+    ],
+    "a": 0,
+    "category": "Trade Unions and Associations"
+  },
+  {
+    "q": "Within a division, the activities of Zonal Secretaries are coordinated by the:",
+    "o": [
+      "Permanent Secretary",
+      "Chairman of the Commission",
+      "Director of Administration and Supplies",
+      "Principal-General"
+    ],
+    "a": 3,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "The Principal-General serves as an administrative link between the Commission and:",
+    "o": [
+      "Schools within the division",
+      "Public primary schools in the state",
+      "Tertiary institutions only",
+      "Recognized trade unions only"
+    ],
+    "a": 0,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "One function of a Principal-General is to:",
+    "o": [
+      "Conduct external examinations",
+      "Approve the state education budget",
+      "Coordinate the activities of Zonal Offices",
+      "Register professional teachers"
+    ],
+    "a": 2,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "At divisional level, Annual Performance Evaluation Reports are rendered by:",
+    "o": [
+      "Zonal Secretaries",
+      "School Principals",
+      "Heads of Department",
+      "Principals-General"
+    ],
+    "a": 3,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "Petitions relating to promotion and discipline may be handled at appellate level by the:",
+    "o": [
+      "Principal-General’s Office",
+      "Zonal Office",
+      "Principal’s Office",
+      "School-Based Management Committee"
+    ],
+    "a": 0,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "Official correspondence from schools within a division should normally pass through the:",
+    "o": [
+      "Principal-General",
+      "School Principal only",
+      "Permanent Secretary directly",
+      "Vice-Principal Administration"
+    ],
+    "a": 0,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "Monthly periodic reports from a division are forwarded to the Commission by the:",
+    "o": [
+      "Zonal Secretary only",
+      "Most senior Principal",
+      "Principal-General",
+      "Director of Finance and Accounts"
+    ],
+    "a": 2,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "Where a Principal-General receives a petition on promotion, the proper action is to:",
+    "o": [
+      "Resolve it informally without written documentation",
+      "Discuss the petition openly with staff",
+      "Forward it to students for comments",
+      "Review and process it through established channels"
+    ],
+    "a": 3,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "The office responsible for monitoring schools within a particular zone is the:",
+    "o": [
+      "Principal-General’s Office",
+      "Zonal Office",
+      "Office of the Chairman",
+      "Fund Management Committee"
+    ],
+    "a": 1,
+    "category": "Zonal Office Functions"
+  },
+  {
+    "q": "A key responsibility of a Zonal Office is to:",
+    "o": [
+      "Issue appointment letters directly",
+      "Approve retirement benefits finally",
+      "Monitor staff performance within the zone",
+      "Register trade unions"
+    ],
+    "a": 2,
+    "category": "Zonal Office Functions"
+  },
+  {
+    "q": "The Secretary to a Zonal Office is responsible for:",
+    "o": [
+      "Day-to-day administration of the office",
+      "Chairing the Teaching Service Commission",
+      "Approving statutory retirement",
+      "Conducting external examinations"
+    ],
+    "a": 0,
+    "category": "Zonal Office Functions"
+  },
+  {
+    "q": "Cases referred by the Commission for investigation and recommendation are handled by the:",
+    "o": [
+      "Finance and Accounts Department",
+      "Information Technology Department",
+      "Zonal Office",
+      "Fund Management Committee"
+    ],
+    "a": 2,
+    "category": "Zonal Office Functions"
+  },
+  {
+    "q": "Annual reports on the activities of Zonal Offices are prepared by the:",
+    "o": [
+      "Principal-General’s Office only",
+      "Zonal Office",
+      "School Principal",
+      "Finance Unit"
+    ],
+    "a": 1,
+    "category": "Zonal Office Functions"
+  },
+  {
+    "q": "Prompt payment of salaries and allowances of staff in schools within the zone is monitored by the:",
+    "o": [
+      "Student Representative Council",
+      "Zonal Office",
+      "Parent-Teacher Association",
+      "School Prefects"
+    ],
+    "a": 1,
+    "category": "Zonal Office Functions"
+  },
+  {
+    "q": "The office responsible for updating the nominal roll of teaching and non-teaching staff within the zone is the:",
+    "o": [
+      "School Principal only",
+      "Parent-Teacher Association",
+      "Zonal Office",
+      "Student Representative Council"
+    ],
+    "a": 2,
+    "category": "Zonal Office Functions"
+  },
+  {
+    "q": "If a Zonal Secretary discovers inconsistencies in staff records, the proper administrative response is to:",
+    "o": [
+      "Ignore the inconsistencies until promotion time",
+      "Delete all affected records",
+      "Transfer all affected staff immediately",
+      "Verify and update the records appropriately"
+    ],
+    "a": 3,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "When a Zonal Office receives a report of misconduct, its appropriate first duty is to:",
+    "o": [
+      "Dismiss the officer immediately",
+      "Ignore the report until petitioned",
+      "Investigate and make recommendations",
+      "Transfer the officer without inquiry"
+    ],
+    "a": 2,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A teacher seeking to submit an official complaint should follow:",
+    "o": [
+      "The established administrative hierarchy",
+      "Informal communication outside official reporting lines",
+      "Anonymous public notices",
+      "Student representatives"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Zonal Offices support the Commission mainly by:",
+    "o": [
+      "Replacing school principals",
+      "Providing local supervision and reports",
+      "Approving external examination results",
+      "Collecting community levies"
+    ],
+    "a": 1,
+    "category": "Zonal Office Functions"
+  },
+  {
+    "q": "A well-functioning zonal system enables the Commission to:",
+    "o": [
+      "Avoid supervision of schools",
+      "Cancel staff records periodically",
+      "Monitor schools and staff more effectively",
+      "Replace the functions of all Principals"
+    ],
+    "a": 2,
+    "category": "Zonal Office Functions"
+  },
+  {
+    "q": "Promotion in the Teaching Service is primarily meant to recognize:",
+    "o": [
+      "Merit and readiness for higher responsibility",
+      "Length of service without performance evidence",
+      "Membership of a staff association",
+      "Transfer from one school to another"
+    ],
+    "a": 0,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "One major requirement for promotion is evidence of:",
+    "o": [
+      "External recommendation outside the approved promotion process",
+      "Satisfactory performance evaluation",
+      "Student popularity",
+      "Residence near the school"
+    ],
+    "a": 1,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "A teacher seeking promotion is expected to demonstrate:",
+    "o": [
+      "Professional competence",
+      "Seniority without performance",
+      "Union membership only",
+      "Frequent change of duty post"
+    ],
+    "a": 0,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "Promotion interviews are conducted mainly to determine a candidate’s:",
+    "o": [
+      "Popularity among students",
+      "Suitability for higher responsibilities",
+      "Informal familiarity with members of staff",
+      "Length of residence in the community"
+    ],
+    "a": 1,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "A teacher whose performance remains below expectation may experience:",
+    "o": [
+      "Automatic elevation",
+      "Exemption from supervision",
+      "Immediate transfer of service",
+      "Delayed promotion"
+    ],
+    "a": 3,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "Annual Performance Evaluation Reports are useful in promotion because they provide:",
+    "o": [
+      "Automatic replacement for interview",
+      "Final approval of retirement benefits",
+      "Documented evidence of staff performance",
+      "Authority to bypass promotion procedures"
+    ],
+    "a": 2,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "Promotion decisions should be guided mainly by:",
+    "o": [
+      "Informal support from school administrators",
+      "Merit and approved criteria",
+      "Recommendations outside established reporting channels",
+      "Community influence"
+    ],
+    "a": 1,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "A newly appointed teacher is expected to:",
+    "o": [
+      "Apply service rules selectively according to preference",
+      "Comply with professional regulations",
+      "Report for duty only when convenient",
+      "Rely on conditions outside the approved service rules"
+    ],
+    "a": 1,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "Teachers aspiring to administrative leadership positions should show:",
+    "o": [
+      "Indifference to school administration",
+      "Avoidance of official responsibility",
+      "Dependence on students for supervision",
+      "Leadership and administrative ability"
+    ],
+    "a": 3,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "One purpose of promotion examinations is to assess:",
+    "o": [
+      "Professional knowledge",
+      "Achievement outside official service responsibilities",
+      "Community popularity",
+      "Financial status outside the Teaching Service"
+    ],
+    "a": 0,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "Appointment into the Teaching Service should be based on:",
+    "o": [
+      "Influence outside the approved recruitment procedure",
+      "Student voting",
+      "Recommendation not supported by approved appointment criteria",
+      "Approved Commission criteria"
+    ],
+    "a": 3,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "A professional teacher is expected to be registered and licensed by the:",
+    "o": [
+      "West African Examinations Council",
+      "Joint Admissions and Matriculation Board",
+      "Teachers Registration Council of Nigeria",
+      "National Youth Service Corps"
+    ],
+    "a": 2,
+    "category": "Professional Qualification"
+  },
+  {
+    "q": "The minimum professional teaching qualification recognized in the Manual is:",
+    "o": [
+      "Senior School Certificate",
+      "Primary School Leaving Certificate",
+      "Nigeria Certificate in Education",
+      "Driving licence"
+    ],
+    "a": 2,
+    "category": "Professional Qualification"
+  },
+  {
+    "q": "A teacher with satisfactory evaluation reports and successful promotion examination performance is likely to be:",
+    "o": [
+      "Retired automatically",
+      "Disciplined for misconduct",
+      "Considered for promotion",
+      "Released from service without process"
+    ],
+    "a": 2,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A teacher who refuses mandatory school assignments without valid reason may negatively affect:",
+    "o": [
+      "Statutory retirement age",
+      "Original date of first appointment",
+      "Minimum professional qualification",
+      "Performance evaluation and promotion prospects"
+    ],
+    "a": 3,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Appointment and promotion records should be properly kept because they support:",
+    "o": [
+      "Fairness and accountability",
+      "Unrecorded administrative discretion",
+      "Avoidance of interviews",
+      "Replacement of staff supervision"
+    ],
+    "a": 0,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "A teacher’s promotion may be delayed where there is evidence of:",
+    "o": [
+      "Consistent punctuality",
+      "Effective lesson delivery",
+      "Unsatisfactory performance record",
+      "Proper record keeping"
+    ],
+    "a": 2,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "Promotion to a higher post requires evidence of:",
+    "o": [
+      "Length of service alone",
+      "Frequent absence from duty",
+      "Recommendation outside the approved promotion process",
+      "Competence and good conduct"
+    ],
+    "a": 3,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "The promotion process should guard against:",
+    "o": [
+      "Performance evaluation",
+      "Promotion interview",
+      "Approved criteria",
+      "Favoritism and bias"
+    ],
+    "a": 3,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "A teacher preparing for promotion should understand:",
+    "o": [
+      "Information outside the approved service rules",
+      "Service rules and professional duties",
+      "Arrangements outside official school administration",
+      "Unverified staff gossip"
+    ],
+    "a": 1,
+    "category": "Appointments and Promotion"
+  },
+  {
+    "q": "The normal retirement age in the Teaching Service is:",
+    "o": [
+      "55 years",
+      "65 years",
+      "70 years",
+      "60 years"
+    ],
+    "a": 3,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "An officer who has completed 35 years of pensionable service shall retire even where the officer has not yet attained:",
+    "o": [
+      "60 years of age",
+      "50 years of age",
+      "55 years of age",
+      "65 years of age"
+    ],
+    "a": 0,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "A retiring officer is expected to give the Commission:",
+    "o": [
+      "One month’s notice",
+      "Two months’ notice",
+      "Three months’ notice",
+      "Six months’ notice"
+    ],
+    "a": 2,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "Voluntary retirement is generally available to an officer who has served for more than:",
+    "o": [
+      "5 years",
+      "15 years",
+      "20 years",
+      "10 years"
+    ],
+    "a": 3,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "The main purpose of annual leave is to enable staff to:",
+    "o": [
+      "Avoid official duties during the school term",
+      "Replace the statutory retirement process",
+      "Rest and recuperate from official duties",
+      "Serve a disciplinary suspension period"
+    ],
+    "a": 2,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "Teaching and non-teaching staff are expected to take annual leave during:",
+    "o": [
+      "Promotion interview periods",
+      "Internal examination weeks",
+      "School vacations",
+      "Ordinary school attendance days"
+    ],
+    "a": 2,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "A staff member who intends to resign should normally give:",
+    "o": [
+      "Three months’ notice",
+      "Six months’ notice",
+      "One year’s notice",
+      "One month’s notice"
+    ],
+    "a": 3,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "Payment in lieu of notice is applicable mainly where a staff member:",
+    "o": [
+      "Resigns without giving the required notice",
+      "Applies for promotion",
+      "Seeks transfer of service",
+      "Applies for annual leave"
+    ],
+    "a": 0,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "An officer who continues in service after mandatory retirement age without approval is regarded as:",
+    "o": [
+      "Being on approved annual leave",
+      "Being on transfer of service",
+      "Overstaying in service",
+      "Awaiting automatic promotion"
+    ],
+    "a": 2,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "Transfer of service can be processed only after an officer has:",
+    "o": [
+      "Obtained confirmation of appointment",
+      "Completed statutory retirement",
+      "Served 35 years in service",
+      "Been promoted at least twice"
+    ],
+    "a": 0,
+    "category": "Transfer of Service"
+  },
+  {
+    "q": "Which of the following is an essential document for transfer of service?",
+    "o": [
+      "Final letter of release",
+      "Evidence of students’ approval",
+      "Trade union dues receipt only",
+      "Personal health note not required for the transfer process"
+    ],
+    "a": 0,
+    "category": "Transfer of Service"
+  },
+  {
+    "q": "Transfer of service requires movement to a recognized body together with proper:",
+    "o": [
+      "Release and documentation",
+      "Student recommendation",
+      "Community approval",
+      "Clearance outside the approved personnel procedure"
+    ],
+    "a": 0,
+    "category": "Transfer of Service"
+  },
+  {
+    "q": "Where a staff member moves to another organization without proper release, the likely result is:",
+    "o": [
+      "Automatic promotion",
+      "Immediate rural allowance",
+      "Exemption from service rules",
+      "Administrative complications"
+    ],
+    "a": 3,
+    "category": "Transfer of Service"
+  },
+  {
+    "q": "Rural allowance is intended to encourage staff to serve in:",
+    "o": [
+      "Urban administrative centres",
+      "Non-designated duty stations outside the approved posting arrangement",
+      "Rural and underserved areas",
+      "Tertiary institutions"
+    ],
+    "a": 2,
+    "category": "Rural Allowance"
+  },
+  {
+    "q": "One condition for qualifying for rural allowance is service in a designated rural area for at least:",
+    "o": [
+      "Two years",
+      "Six months",
+      "One year",
+      "Five years"
+    ],
+    "a": 0,
+    "category": "Rural Allowance"
+  },
+  {
+    "q": "Rural areas for the purpose of rural allowance are generally characterized by inadequate:",
+    "o": [
+      "Teaching subjects",
+      "School population",
+      "Modern social amenities",
+      "Staff meetings"
+    ],
+    "a": 2,
+    "category": "Rural Allowance"
+  },
+  {
+    "q": "A teacher posted to a designated rural area is expected to:",
+    "o": [
+      "Refuse the posting until posted to an urban school",
+      "Serve diligently and comply with the posting",
+      "Demand immediate transfer before resumption",
+      "Abandon duty and await another posting"
+    ],
+    "a": 1,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A staff member intending voluntary retirement after more than ten years of service should give:",
+    "o": [
+      "Three months’ notice",
+      "One week’s notice",
+      "One year’s notice",
+      "No notice"
+    ],
+    "a": 0,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "A staff member who resigns without notice may be required to:",
+    "o": [
+      "Pay one month’s salary in lieu of notice",
+      "Receive automatic promotion",
+      "Claim rural allowance",
+      "Proceed on study leave"
+    ],
+    "a": 0,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "Transfer of service should not be treated as:",
+    "o": [
+      "A documented administrative process",
+      "An informal movement without documentation",
+      "A regulated service action",
+      "A procedure requiring proper release"
+    ],
+    "a": 1,
+    "category": "Transfer of Service"
+  },
+  {
+    "q": "A teacher who abandons duty without permission may be charged with:",
+    "o": [
+      "Transfer of service",
+      "Voluntary retirement",
+      "Misconduct",
+      "Annual leave"
+    ],
+    "a": 2,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "Which of the following may properly attract disciplinary action against a teacher?",
+    "o": [
+      "Regular class attendance",
+      "Prompt submission of records",
+      "Proper lesson preparation",
+      "Persistent lateness to school"
+    ],
+    "a": 3,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "The main purpose of disciplinary control in the Teaching Service is to:",
+    "o": [
+      "Replace promotion procedures",
+      "Correct misconduct and maintain service standards",
+      "Prevent staff transfer",
+      "Reduce annual leave entitlement"
+    ],
+    "a": 1,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "A teacher found guilty of examination malpractice may be subjected to:",
+    "o": [
+      "Automatic promotion",
+      "Rural allowance",
+      "Transfer of service approval",
+      "Disciplinary action"
+    ],
+    "a": 3,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "Ultimate disciplinary control over teachers is vested in the:",
+    "o": [
+      "Teaching Service Commission",
+      "Parent-Teacher Association",
+      "Student Representative Council",
+      "School Fund Management Committee"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "A written caution is best described as:",
+    "o": [
+      "A promotion requirement",
+      "A retirement document",
+      "A transfer of service certificate",
+      "A disciplinary measure"
+    ],
+    "a": 3,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "Dismissal from service is usually applicable in cases of:",
+    "o": [
+      "Approved annual leave",
+      "Serious misconduct",
+      "Routine posting",
+      "Satisfactory performance"
+    ],
+    "a": 1,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "Failure to comply with a lawful posting may expose a teacher to:",
+    "o": [
+      "Automatic salary increment",
+      "Compulsory study leave",
+      "Disciplinary action",
+      "Immediate rural allowance"
+    ],
+    "a": 2,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "Falsification of official school records is regarded as:",
+    "o": [
+      "A promotion requirement",
+      "Serious misconduct",
+      "A transfer procedure",
+      "A professional development activity"
+    ],
+    "a": 1,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "A proper disciplinary process should be guided by:",
+    "o": [
+      "Rumour and suspicion",
+      "Fairness and due process",
+      "Considerations outside the evidence before the authority",
+      "Considerations outside official disciplinary evidence"
+    ],
+    "a": 1,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "A Principal observes repeated lateness by a teacher. The most appropriate first administrative response is to:",
+    "o": [
+      "Ignore the matter until promotion time",
+      "Provide counselling and issue an appropriate warning",
+      "Recommend the teacher for immediate promotion",
+      "Transfer the teacher without inquiry"
+    ],
+    "a": 1,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A teacher shares confidential student records online. This mainly violates the principle of:",
+    "o": [
+      "Confidentiality",
+      "Promotion eligibility",
+      "Transfer procedure",
+      "Rural allowance qualification"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A teacher is offered money to influence students’ results. The proper professional response is to:",
+    "o": [
+      "Accept the offer if the student deserves help",
+      "Reject the offer and report the matter through the proper channel",
+      "Negotiate a higher amount before deciding",
+      "Handle the matter outside official reporting channels"
+    ],
+    "a": 1,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "When a Principal receives a complaint against a teacher, the best administrative action is to:",
+    "o": [
+      "Punish the teacher immediately",
+      "Ignore the complaint if it comes from students",
+      "Investigate fairly before taking a decision",
+      "Discuss the allegation publicly during assembly"
+    ],
+    "a": 2,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A teacher who refuses assigned teaching periods without valid reason may be guilty of:",
+    "o": [
+      "Approved absence",
+      "Professional development",
+      "Neglect of duty",
+      "Transfer of service"
+    ],
+    "a": 2,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A teacher insults a colleague before students during assembly. This conduct is inconsistent with:",
+    "o": [
+      "Professional ethics and decorum",
+      "Promotion interview procedure",
+      "Annual leave processing",
+      "Transfer documentation"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Suspension from duty may be considered where:",
+    "o": [
+      "A teacher has been promoted",
+      "A teacher attends classes regularly",
+      "An alleged misconduct is serious or under investigation",
+      "Staff records are accurate"
+    ],
+    "a": 2,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "An absent teacher should report the reason for absence through:",
+    "o": [
+      "Students in the affected class",
+      "Messages outside approved reporting channels",
+      "Community representatives only",
+      "The Principal and the proper administrative channel"
+    ],
+    "a": 3,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "Disciplinary action should not be based solely on:",
+    "o": [
+      "Rumour and bias",
+      "Evidence",
+      "Investigation",
+      "Due process"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "The sanctioning of misconduct is intended to protect:",
+    "o": [
+      "Interests outside the discipline and efficiency of the service",
+      "Interests outside the approved objectives of school administration",
+      "Service standards and public trust",
+      "Falsification of records"
+    ],
+    "a": 2,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "The Principal is regarded in the Manual as the:",
+    "o": [
+      "Chairman of the Parent-Teacher Association",
+      "Representative of the Zonal Office in the school",
+      "Administrative and academic head of the school",
+      "Secretary to the Teaching Service Commission"
+    ],
+    "a": 2,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "An effective Principal should promote teamwork among staff while also ensuring:",
+    "o": [
+      "Complete independence of teachers from supervision",
+      "Separation of academic duties from discipline",
+      "Order, accountability and effective supervision",
+      "Administrative secrecy in staff matters"
+    ],
+    "a": 2,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "The Principal is expected to ensure that teaching and learning activities are:",
+    "o": [
+      "Left entirely to Heads of Department",
+      "Documented only at the end of the term",
+      "Effectively supervised",
+      "Treated as optional where staff are experienced"
+    ],
+    "a": 2,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "One major administrative duty of the Principal is to:",
+    "o": [
+      "Approve statutory retirement",
+      "Conduct promotion interviews for the Commission",
+      "Issue final transfer of service letters",
+      "Maintain school discipline"
+    ],
+    "a": 3,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "The Principal should ensure proper maintenance of:",
+    "o": [
+      "Items outside official school custody",
+      "School facilities and official records",
+      "Assets unrelated to official school administration",
+      "Union campaign materials"
+    ],
+    "a": 1,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "A Principal gives academic leadership mainly by:",
+    "o": [
+      "Leaving classroom supervision to students",
+      "Avoiding involvement in instructional matters",
+      "Guiding teachers and improving instruction",
+      "Checking records only when promotion is due"
+    ],
+    "a": 2,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "The Principal should ensure that teachers’ notes and records are:",
+    "o": [
+      "Kept only for external inspection",
+      "Reviewed only after complaints from parents",
+      "Checked regularly",
+      "Handled exclusively by students’ representatives"
+    ],
+    "a": 2,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "Communication between the Principal and parents should support:",
+    "o": [
+      "Students’ progress and welfare",
+      "Staff promotion lobbying",
+      "Communication outside approved school-parent channels",
+      "Measures outside approved school discipline procedures"
+    ],
+    "a": 0,
+    "category": "Communication with Parents"
+  },
+  {
+    "q": "A Principal must maintain confidentiality regarding official matters involving:",
+    "o": [
+      "Staff, parents and students",
+      "Only members of the Fund Management Committee",
+      "Only school property records",
+      "Only external examination matters"
+    ],
+    "a": 0,
+    "category": "Code of Conduct"
+  },
+  {
+    "q": "A Principal must not use official position to promote:",
+    "o": [
+      "The interest of any political party",
+      "Academic excellence",
+      "Student welfare",
+      "Professional discipline"
+    ],
+    "a": 0,
+    "category": "Code of Conduct"
+  },
+  {
+    "q": "A Principal notices a steady decline in students’ academic performance. The most appropriate response is to:",
+    "o": [
+      "Review teaching practices and provide academic leadership",
+      "Ignore the trend until external examination results are released",
+      "Reduce teaching periods to ease staff workload",
+      "Refer all responsibility to students’ representatives"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Where school property is damaged through negligence, the Principal should:",
+    "o": [
+      "Ignore the matter if the property is old",
+      "Dispose of the property without record",
+      "Transfer responsibility to students without inquiry",
+      "Take corrective measures and enforce accountability"
+    ],
+    "a": 3,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A Principal who uses school funds to repair a personal vehicle violates the principle of:",
+    "o": [
+      "Academic supervision",
+      "Financial accountability",
+      "Promotion eligibility",
+      "Transfer procedure"
+    ],
+    "a": 1,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A Principal who fails to report a suspected infectious disease has neglected the duty of:",
+    "o": [
+      "Protecting school health and welfare",
+      "Preparing bank reconciliation statements",
+      "Processing teachers’ promotion records",
+      "Issuing certificates to students"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Staff complaints should be handled by the Principal with:",
+    "o": [
+      "Fairness and confidentiality",
+      "Public discussion before students",
+      "Delay until the end of the session",
+      "Considerations outside fairness and proper procedure"
+    ],
+    "a": 0,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "The Principal’s relationship with staff should be:",
+    "o": [
+      "Hostile in order to enforce discipline",
+      "Indifferent to staff welfare",
+      "Conducted outside fairness and official responsibility",
+      "Cordial but professionally firm"
+    ],
+    "a": 3,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "When a Principal delegates authority, the Principal still retains:",
+    "o": [
+      "Overall responsibility",
+      "Only ceremonial authority",
+      "Responsibility for staff union matters only",
+      "No further supervisory duty"
+    ],
+    "a": 0,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "During school hours, a Principal should prevent the sale of alcoholic drinks in:",
+    "o": [
+      "Only the school farm",
+      "Only the examination hall",
+      "Classrooms or students’ assembly",
+      "Only the staff vehicle park"
+    ],
+    "a": 2,
+    "category": "Code of Conduct"
+  },
+  {
+    "q": "The Principal’s leadership should promote:",
+    "o": [
+      "Unsupervised staff autonomy",
+      "Record keeping only during inspection",
+      "Academic work without discipline",
+      "Orderliness, discipline and achievement"
+    ],
+    "a": 3,
+    "category": "Principal Responsibilities"
+  },
+  {
+    "q": "The Principal is required to account for funds made available for:",
+    "o": [
+      "Running the school",
+      "Arrangements outside approved school financial records",
+      "Activities outside approved school accounting records",
+      "Assistance outside official school funds"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "The Vice-Principal assists the Principal mainly in:",
+    "o": [
+      "Final approval of retirement benefits",
+      "Appointment of staff into the Commission",
+      "School administration and supervision",
+      "Issuance of transfer of service letters"
+    ],
+    "a": 2,
+    "category": "Vice Principal Responsibilities"
+  },
+  {
+    "q": "In the absence of the Principal, the Vice-Principal is expected to:",
+    "o": [
+      "Suspend all school activities automatically",
+      "Take charge of the school",
+      "Refer routine administration to students",
+      "Hand over control to the Account Officer"
+    ],
+    "a": 1,
+    "category": "Vice Principal Responsibilities"
+  },
+  {
+    "q": "A Vice-Principal should ensure that teachers:",
+    "o": [
+      "Submit records only when promotion is due",
+      "Leave class supervision to students",
+      "Avoid continuous assessment duties",
+      "Carry out assigned duties effectively"
+    ],
+    "a": 3,
+    "category": "Vice Principal Responsibilities"
+  },
+  {
+    "q": "One major duty of the Vice-Principal is to assist in maintaining:",
+    "o": [
+      "External examination certification",
+      "Discipline",
+      "Staff retirement records at Commission level",
+      "Trade union registration"
+    ],
+    "a": 1,
+    "category": "Vice Principal Responsibilities"
+  },
+  {
+    "q": "The Vice-Principal should monitor:",
+    "o": [
+      "Activities outside approved teaching and learning supervision",
+      "Teaching and learning activities",
+      "Meetings outside approved school administrative duties",
+      "Non-school community commercial activities"
+    ],
+    "a": 1,
+    "category": "Vice Principal Responsibilities"
+  },
+  {
+    "q": "A Vice-Principal assigned to coordinate an academic programme should:",
+    "o": [
+      "Delegate the responsibility entirely to students",
+      "Ignore the assignment unless inspected",
+      "Reject the assignment without official reason",
+      "Carry out the assignment diligently"
+    ],
+    "a": 3,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Where a Vice-Principal discovers examination materials left unsecured overnight, the proper action is to:",
+    "o": [
+      "Leave the materials until examination time",
+      "Distribute the materials to subject teachers informally",
+      "Destroy the materials without record",
+      "Secure the materials and report the incident"
+    ],
+    "a": 3,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Effective school administration requires:",
+    "o": [
+      "Unrecorded verbal instructions only",
+      "Absence of supervision",
+      "Proper planning and coordination",
+      "Separation of discipline from administration"
+    ],
+    "a": 2,
+    "category": "School Administration"
+  },
+  {
+    "q": "A well-administered school is characterized by:",
+    "o": [
+      "Frequent loss of records",
+      "Orderliness and accountability",
+      "Unsupervised staff activities",
+      "Administrative secrecy in routine matters"
+    ],
+    "a": 1,
+    "category": "School Administration"
+  },
+  {
+    "q": "School records should be maintained because they:",
+    "o": [
+      "Replace classroom supervision",
+      "Eliminate the need for staff accountability",
+      "Serve only external inspectors",
+      "Provide reliable information for decision-making"
+    ],
+    "a": 3,
+    "category": "Record Keeping"
+  },
+  {
+    "q": "Which of the following is an important school record?",
+    "o": [
+      "Informal staff welfare contribution list",
+      "Informal notes not approved as a school register",
+      "Community activity list outside school records",
+      "Attendance Register"
+    ],
+    "a": 3,
+    "category": "Record Keeping"
+  },
+  {
+    "q": "Accurate record keeping promotes:",
+    "o": [
+      "Accountability and efficiency",
+      "Unverified decision-making",
+      "Avoidance of supervision",
+      "Administrative confusion"
+    ],
+    "a": 0,
+    "category": "Record Keeping"
+  },
+  {
+    "q": "If a school’s attendance register has not been updated for a week, the administrator should:",
+    "o": [
+      "Ensure immediate updating of the record",
+      "Wait until the end of term to reconstruct it",
+      "Ignore the omission if attendance is regular",
+      "Replace the register with oral reports"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Where a Vice-Principal discovers that important records are missing, the first proper step is to:",
+    "o": [
+      "Blame students without inquiry",
+      "Investigate and secure remaining records",
+      "Destroy incomplete records",
+      "Wait until external inspection"
+    ],
+    "a": 1,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Official school records should be:",
+    "o": [
+      "Accurate, current and properly kept",
+      "Kept only when requested by inspectors",
+      "Handled mainly by student representatives",
+      "Destroyed at the end of every session"
+    ],
+    "a": 0,
+    "category": "Record Keeping"
+  },
+  {
+    "q": "Record keeping assists school leaders to:",
+    "o": [
+      "Avoid responsibility for supervision",
+      "Plan and evaluate performance",
+      "Conceal administrative lapses",
+      "Replace communication with parents"
+    ],
+    "a": 1,
+    "category": "Record Keeping"
+  },
+  {
+    "q": "A teacher who falsifies school records commits:",
+    "o": [
+      "Minor lateness",
+      "Serious misconduct",
+      "Approved administrative correction",
+      "Routine record adjustment"
+    ],
+    "a": 1,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "Administrative efficiency depends partly on:",
+    "o": [
+      "Instructions not supported by proper documentation",
+      "Reliable documentation",
+      "Loss of official files",
+      "Poor filing practice"
+    ],
+    "a": 1,
+    "category": "School Administration"
+  },
+  {
+    "q": "A school without proper records is likely to suffer:",
+    "o": [
+      "Improved administrative control",
+      "Better audit readiness",
+      "Poor accountability",
+      "More reliable planning"
+    ],
+    "a": 2,
+    "category": "Record Keeping"
+  },
+  {
+    "q": "Teachers and administrators should treat official records as:",
+    "o": [
+      "Property outside official school custody",
+      "Documents for disposal after use",
+      "Important evidence of school activities",
+      "Materials for informal circulation"
+    ],
+    "a": 2,
+    "category": "Record Keeping"
+  },
+  {
+    "q": "A teacher’s primary responsibility is to:",
+    "o": [
+      "Facilitate learning and character development",
+      "Administer school finances independently",
+      "Determine staff promotion eligibility",
+      "Process official transfer of service"
+    ],
+    "a": 0,
+    "category": "Teacher Responsibilities"
+  },
+  {
+    "q": "Teachers are expected to serve as role models through their:",
+    "o": [
+      "Length of service alone",
+      "Union membership status",
+      "Conduct and character",
+      "Subject allocation only"
+    ],
+    "a": 2,
+    "category": "Teacher Responsibilities"
+  },
+  {
+    "q": "Professionalism in teaching is best demonstrated through:",
+    "o": [
+      "Punctuality and preparedness",
+      "Seniority without lesson preparation",
+      "Classroom attendance only during inspection",
+      "Delegation of teaching duties to students"
+    ],
+    "a": 0,
+    "category": "Teacher Responsibilities"
+  },
+  {
+    "q": "Teachers are expected to maintain accurate records of:",
+    "o": [
+      "Transactions outside official teaching duties",
+      "Opinions outside approved classroom records",
+      "Attendance and assessment",
+      "Community disputes"
+    ],
+    "a": 2,
+    "category": "Record Keeping"
+  },
+  {
+    "q": "A teacher who consistently arrives late may be accused of:",
+    "o": [
+      "Approved absence",
+      "Professional excellence",
+      "Transfer of service",
+      "Neglect of duty"
+    ],
+    "a": 3,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "Before entering the classroom, a teacher should prepare with:",
+    "o": [
+      "Attendance register only",
+      "Lesson notes and instructional materials",
+      "Textbook only without lesson plan",
+      "Examination questions only"
+    ],
+    "a": 1,
+    "category": "Teacher Responsibilities"
+  },
+  {
+    "q": "Regular assessment of students helps teachers to:",
+    "o": [
+      "Replace lesson preparation",
+      "Avoid record keeping",
+      "Reduce classroom supervision",
+      "Monitor learning progress"
+    ],
+    "a": 3,
+    "category": "Teacher Responsibilities"
+  },
+  {
+    "q": "Teachers should provide parents or guardians with appropriate information on students’:",
+    "o": [
+      "Confidential staff matters",
+      "Academic progress, attendance and behaviour",
+      "Personnel records not meant for parent reporting",
+      "Matters outside the student’s academic and conduct record"
+    ],
+    "a": 1,
+    "category": "Communication with Parents"
+  },
+  {
+    "q": "Communication with parents is important because it:",
+    "o": [
+      "Replaces school supervision",
+      "Removes teachers’ accountability",
+      "Supports student development",
+      "Eliminates assessment records"
+    ],
+    "a": 2,
+    "category": "Communication with Parents"
+  },
+  {
+    "q": "Student welfare includes providing:",
+    "o": [
+      "Unsupervised school activities",
+      "Informal disciplinary practices",
+      "A safe and supportive learning environment",
+      "Academic work without guidance"
+    ],
+    "a": 2,
+    "category": "Student Welfare"
+  },
+  {
+    "q": "Teachers should encourage students to develop:",
+    "o": [
+      "Disrespect for school authority",
+      "Dishonesty in school work",
+      "Good character and responsibility",
+      "Dependence on examination malpractice"
+    ],
+    "a": 2,
+    "category": "Student Welfare"
+  },
+  {
+    "q": "Student attendance should be monitored in order to:",
+    "o": [
+      "Promote regular participation in learning",
+      "Replace assessment records",
+      "Avoid communication with parents",
+      "Reduce instructional supervision"
+    ],
+    "a": 0,
+    "category": "Student Welfare"
+  },
+  {
+    "q": "The Code of Conduct requires teachers to treat students with:",
+    "o": [
+      "Favouritism and partiality",
+      "Fairness and respect",
+      "Fear and intimidation",
+      "Neglect and indifference"
+    ],
+    "a": 1,
+    "category": "Code of Conduct"
+  },
+  {
+    "q": "Teachers should avoid actions capable of bringing:",
+    "o": [
+      "Professional recognition to the school",
+      "Disrepute to the teaching profession",
+      "Improvement to school standards",
+      "Better student welfare"
+    ],
+    "a": 1,
+    "category": "Code of Conduct"
+  },
+  {
+    "q": "Professional integrity requires a teacher to be:",
+    "o": [
+      "Selective in applying school rules",
+      "Guided by interests outside official duty",
+      "Dependent on influence outside professional standards",
+      "Honest and trustworthy"
+    ],
+    "a": 3,
+    "category": "Code of Conduct"
+  },
+  {
+    "q": "Confidential information obtained through official duty should be:",
+    "o": [
+      "Shared freely with colleagues",
+      "Posted publicly for awareness",
+      "Protected from unauthorized disclosure",
+      "Discussed informally outside school"
+    ],
+    "a": 2,
+    "category": "Code of Conduct"
+  },
+  {
+    "q": "A teacher who leaks examination questions commits:",
+    "o": [
+      "Professional development error",
+      "Serious misconduct",
+      "Routine administrative mistake",
+      "Approved academic assistance"
+    ],
+    "a": 1,
+    "category": "Examination Ethics"
+  },
+  {
+    "q": "Proper examination supervision is meant to ensure:",
+    "o": [
+      "Preferential treatment of students",
+      "Fairness and credibility",
+      "Unrecorded examination assistance",
+      "Relaxation of examination rules"
+    ],
+    "a": 1,
+    "category": "Examination Ethics"
+  },
+  {
+    "q": "A teacher who notices examination malpractice should:",
+    "o": [
+      "Ignore it to avoid conflict",
+      "Report it through appropriate channels",
+      "Assist the student quietly",
+      "Handle it outside approved examination reporting channels"
+    ],
+    "a": 1,
+    "category": "Examination Ethics"
+  },
+  {
+    "q": "If a parent pressures a teacher to alter a student’s score, the teacher should:",
+    "o": [
+      "Comply if the parent is influential",
+      "Respond outside professional assessment procedures",
+      "Change the score without documentation",
+      "Maintain integrity and refuse the request"
+    ],
+    "a": 3,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "The Daily Cash Book is used mainly to record:",
+    "o": [
+      "All financial receipts and payments",
+      "Teachers’ lesson preparation records",
+      "Students’ attendance and punctuality",
+      "Promotion interview scores"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Entries in the Daily Cash Book should be made:",
+    "o": [
+      "At the end of every week",
+      "Only after bank reconciliation",
+      "At the end of the school term",
+      "Daily"
+    ],
+    "a": 3,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Before any payment is made, the payment voucher must be:",
+    "o": [
+      "Filed without approval",
+      "Properly authorized",
+      "Signed by students’ representatives",
+      "Approved verbally without record"
+    ],
+    "a": 1,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "The Account Officer is responsible for:",
+    "o": [
+      "Approving teachers’ promotion",
+      "Issuing final retirement approval",
+      "Conducting disciplinary interviews",
+      "Maintaining accurate financial records"
+    ],
+    "a": 3,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Receipts issued for funds received serve as evidence of:",
+    "o": [
+      "Staff promotion eligibility",
+      "Revenue collection",
+      "Student academic performance",
+      "Transfer of service approval"
+    ],
+    "a": 1,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "The purpose of bank reconciliation is to compare:",
+    "o": [
+      "Staff attendance with lesson note records",
+      "Cash book balance with bank statement balance",
+      "Student admission with promotion records",
+      "School timetable with examination schedule"
+    ],
+    "a": 1,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Bank reconciliation statements are generally prepared:",
+    "o": [
+      "Daily before every payment",
+      "Monthly",
+      "Weekly before assembly",
+      "Only at the end of staff promotion exercises"
+    ],
+    "a": 1,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "School funds should be used only for:",
+    "o": [
+      "Staff welfare expenses without approval",
+      "Projects not captured in approved school plans",
+      "Expenditure approved informally after payment",
+      "Approved school purposes"
+    ],
+    "a": 3,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "The Principal serves as chairman of the:",
+    "o": [
+      "Fund Management Committee",
+      "Zonal Disciplinary Committee",
+      "Student Representative Council",
+      "Teachers’ Trade Union"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "The Fund Management Committee exists mainly to promote:",
+    "o": [
+      "Financial accountability",
+      "Expenditure outside approved school financial records",
+      "Unrecorded advances",
+      "Use of funds outside approved school purposes"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Which document provides evidence that a payment has been properly approved?",
+    "o": [
+      "Attendance Register",
+      "Lesson Note",
+      "Promotion Letter",
+      "Payment Voucher"
+    ],
+    "a": 3,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Any advance granted to staff should be:",
+    "o": [
+      "Properly authorized and accounted for",
+      "Paid first and documented later",
+      "Recorded outside approved financial documentation",
+      "Approved orally without supporting documents"
+    ],
+    "a": 0,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "One duty of an Executive Officer (Accounts) is to:",
+    "o": [
+      "Conduct promotion interviews",
+      "Approve transfer of service",
+      "Ensure prompt collection of revenue",
+      "Supervise teachers’ lesson notes"
+    ],
+    "a": 2,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Proper financial records should promote:",
+    "o": [
+      "Informal spending discretion",
+      "Avoidance of audit trail",
+      "Unrecorded cash handling",
+      "Transparency and accountability"
+    ],
+    "a": 3,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Misuse of school funds may lead to:",
+    "o": [
+      "Automatic promotion",
+      "Study leave approval",
+      "Rural allowance qualification",
+      "Disciplinary action"
+    ],
+    "a": 3,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "A Principal who approves payment without supporting documents violates:",
+    "o": [
+      "Financial control procedures",
+      "Promotion interview guidelines",
+      "Student attendance regulations",
+      "Transfer of service requirements"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Where an Account Officer discovers a difference between the cash book and bank statement, the proper step is to:",
+    "o": [
+      "Ignore the difference if cash is available",
+      "Destroy the affected records",
+      "Close the school account immediately",
+      "Prepare a reconciliation statement and investigate"
+    ],
+    "a": 3,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Before a staff financial advance is granted, there should be:",
+    "o": [
+      "Secret payment arrangement",
+      "Approval by students",
+      "Verbal approval by parents",
+      "Proper authorization"
+    ],
+    "a": 3,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Unauthorized expenditure discovered by the Fund Management Committee should be:",
+    "o": [
+      "Ignored if the amount is small",
+      "Approved retroactively without inquiry",
+      "Removed from the cash book",
+      "Investigated and reported"
+    ],
+    "a": 3,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A Principal who uses PTA funds for personal travel has committed:",
+    "o": [
+      "Administrative efficiency",
+      "Professional development",
+      "Approved expenditure",
+      "Financial misconduct"
+    ],
+    "a": 3,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Non-teaching staff contribute to school effectiveness mainly through:",
+    "o": [
+      "Classroom teaching as their primary duty",
+      "Final approval of promotion exercises",
+      "External examination certification",
+      "Administrative and support services"
+    ],
+    "a": 3,
+    "category": "Non-Teaching Staff"
+  },
+  {
+    "q": "The Executive Officer (Accounts) is responsible mainly for:",
+    "o": [
+      "Classroom instructional supervision",
+      "Final approval of teachers’ promotion",
+      "School security patrol",
+      "Financial administration"
+    ],
+    "a": 3,
+    "category": "Finance and Accounts"
+  },
+  {
+    "q": "Confidential Secretaries are expected to handle:",
+    "o": [
+      "Students’ continuous assessment only",
+      "Confidential correspondence and records",
+      "School farm operations",
+      "Promotion interviews"
+    ],
+    "a": 1,
+    "category": "Office Procedures"
+  },
+  {
+    "q": "The Confidential Secretary cadre extends up to:",
+    "o": [
+      "Principal Teacher",
+      "Director of Education",
+      "Chief Confidential Secretary",
+      "Chief Accountant"
+    ],
+    "a": 2,
+    "category": "Office Procedures"
+  },
+  {
+    "q": "A clerical officer is expected to maintain:",
+    "o": [
+      "Accurate office records",
+      "Students’ discipline records only",
+      "School farm accounts only",
+      "Sports equipment inventory only"
+    ],
+    "a": 0,
+    "category": "Office Procedures"
+  },
+  {
+    "q": "Store records are kept mainly to ensure:",
+    "o": [
+      "Staff promotion eligibility",
+      "Proper accountability of materials",
+      "Students’ academic placement",
+      "Retirement benefit processing"
+    ],
+    "a": 1,
+    "category": "Store Keeping"
+  },
+  {
+    "q": "Stock verification is carried out to:",
+    "o": [
+      "Approve staff promotion",
+      "Authorize transfer of teachers",
+      "Confirm the accuracy of store records",
+      "Register new students"
+    ],
+    "a": 2,
+    "category": "Store Keeping"
+  },
+  {
+    "q": "School stores should be managed in a way that prevents:",
+    "o": [
+      "Preparation of store requisitions",
+      "Proper recording of materials",
+      "Authorized issue of items",
+      "Loss and misuse of materials"
+    ],
+    "a": 3,
+    "category": "Store Keeping"
+  },
+  {
+    "q": "A requisition form is commonly used to:",
+    "o": [
+      "Approve statutory retirement",
+      "Conduct external examinations",
+      "Process transfer of service",
+      "Request materials from the store"
+    ],
+    "a": 3,
+    "category": "Store Keeping"
+  },
+  {
+    "q": "Office records are preserved because they provide:",
+    "o": [
+      "Institutional memory",
+      "Replacement for teaching duties",
+      "Exemption from supervision",
+      "A reason to avoid accountability"
+    ],
+    "a": 0,
+    "category": "Office Procedures"
+  },
+  {
+    "q": "Official correspondence should be:",
+    "o": [
+      "Handled verbally without record",
+      "Destroyed immediately after reading",
+      "Kept outside official channels",
+      "Properly documented and filed"
+    ],
+    "a": 3,
+    "category": "Office Procedures"
+  },
+  {
+    "q": "An effective filing system should promote:",
+    "o": [
+      "Loss of official records",
+      "Delay in administrative action",
+      "Avoidance of documentation",
+      "Easy retrieval of information"
+    ],
+    "a": 3,
+    "category": "Office Procedures"
+  },
+  {
+    "q": "A clerical officer who keeps accurate records demonstrates:",
+    "o": [
+      "Professional efficiency",
+      "Negligence of duty",
+      "Insubordination",
+      "Misuse of office"
+    ],
+    "a": 0,
+    "category": "Office Procedures"
+  },
+  {
+    "q": "Proper documentation supports:",
+    "o": [
+      "Accountability",
+      "Avoidance of responsibility",
+      "Unrecorded decision-making",
+      "Administrative secrecy"
+    ],
+    "a": 0,
+    "category": "Office Procedures"
+  },
+  {
+    "q": "Where a storekeeper discovers shortages during stock verification, the proper action is to:",
+    "o": [
+      "Ignore the shortage if items are still useful",
+      "Alter the store records to balance the stock",
+      "Destroy the stock cards",
+      "Investigate and report the discrepancy"
+    ],
+    "a": 3,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "An Account Officer who receives money without issuing a receipt violates:",
+    "o": [
+      "Promotion guidelines",
+      "Financial procedures",
+      "Annual leave regulations",
+      "Transfer of service rules"
+    ],
+    "a": 1,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A Confidential Secretary who receives a confidential document should:",
+    "o": [
+      "Circulate it informally among colleagues",
+      "Handle it according to established procedures",
+      "Post its contents online for transparency",
+      "Discard it after reading"
+    ],
+    "a": 1,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Where a clerical officer notices missing files, the first proper action is to:",
+    "o": [
+      "Ignore the matter until the file is requested",
+      "Create false replacement records",
+      "Destroy related files",
+      "Search and report according to procedure"
+    ],
+    "a": 3,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A storekeeper who releases materials without authorization may face:",
+    "o": [
+      "Automatic promotion",
+      "Award of excellence",
+      "Immediate transfer of service",
+      "Administrative or disciplinary action"
+    ],
+    "a": 3,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Non-teaching staff are expected to observe:",
+    "o": [
+      "Students’ timetable only",
+      "Service rules and office discipline",
+      "Procedures outside official school administration",
+      "Directives outside approved public service conduct"
+    ],
+    "a": 1,
+    "category": "Non-Teaching Staff"
+  }
+]

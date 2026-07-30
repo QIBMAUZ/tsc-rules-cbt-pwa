@@ -1,0 +1,222 @@
+[
+  {
+    "q": "Who coordinates the activities of Zonal Secretaries within a division?",
+    "o": [
+      "Permanent Secretary",
+      "Chairman",
+      "Principal-General",
+      "Director of Administration"
+    ],
+    "a": 2,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "A Principal-General serves as a link between the Commission and:",
+    "o": [
+      "Schools within the division",
+      "Foreign embassies",
+      "Universities only",
+      "Private businesses"
+    ],
+    "a": 0,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "One function of a Principal-General is to:",
+    "o": [
+      "Coordinate activities of Zonal Offices",
+      "Conduct WAEC examinations",
+      "Approve state budgets",
+      "Issue passports"
+    ],
+    "a": 0,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "Annual Performance Evaluation Reports at divisional level are rendered by:",
+    "o": [
+      "Teachers",
+      "Principals-General",
+      "Students",
+      "Parents"
+    ],
+    "a": 1,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "Which office serves as appellate body for petitions on promotion and discipline?",
+    "o": [
+      "Zonal Office",
+      "Principal's Office",
+      "Principal-General's Office",
+      "School Board"
+    ],
+    "a": 2,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "Official correspondence should normally be routed through:",
+    "o": [
+      "School Principal",
+      "Permanent Secretary",
+      "Principal-General",
+      "Vice Principal"
+    ],
+    "a": 2,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "Monthly periodic reports from the division are forwarded by:",
+    "o": [
+      "Principal-General",
+      "School Principal",
+      "Teacher",
+      "Student Representative"
+    ],
+    "a": 0,
+    "category": "Principal-General Functions"
+  },
+  {
+    "q": "A Principal-General receiving a promotion petition should:",
+    "o": [
+      "Review and process it through established channels",
+      "Ignore it",
+      "Discuss it publicly",
+      "Destroy it"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Which office monitors the activities of schools within a zone?",
+    "o": [
+      "Zonal Office",
+      "PTA",
+      "Student Council",
+      "School Prefects"
+    ],
+    "a": 0,
+    "category": "Zonal Offices"
+  },
+  {
+    "q": "A key responsibility of a Zonal Office is to:",
+    "o": [
+      "Monitor staff performance",
+      "Conduct WAEC examinations",
+      "Issue degrees",
+      "Collect taxes"
+    ],
+    "a": 0,
+    "category": "Zonal Offices"
+  },
+  {
+    "q": "The Secretary to a Zonal Office handles:",
+    "o": [
+      "Day-to-day administration of the office",
+      "Chairing the Commission",
+      "Approving retirements",
+      "Conducting elections"
+    ],
+    "a": 0,
+    "category": "Zonal Offices"
+  },
+  {
+    "q": "Which office investigates cases referred by the Commission and makes recommendations?",
+    "o": [
+      "Finance Department",
+      "Zonal Office",
+      "IT Department",
+      "Administration Department"
+    ],
+    "a": 1,
+    "category": "Zonal Offices"
+  },
+  {
+    "q": "Which office prepares annual reports of Zonal Office activities?",
+    "o": [
+      "Permanent Secretary's Office",
+      "Zonal Office",
+      "School Board",
+      "Finance Unit"
+    ],
+    "a": 1,
+    "category": "Zonal Offices"
+  },
+  {
+    "q": "Who ensures prompt payment of salaries and allowances in schools within the zone?",
+    "o": [
+      "Students",
+      "Parents",
+      "Zonal Office",
+      "School Prefects"
+    ],
+    "a": 2,
+    "category": "Zonal Offices"
+  },
+  {
+    "q": "Which office updates the nominal roll of teaching and non-teaching staff?",
+    "o": [
+      "School Principal",
+      "Zonal Office",
+      "Parents' Forum",
+      "Education Board"
+    ],
+    "a": 1,
+    "category": "Zonal Offices"
+  },
+  {
+    "q": "A Zonal Secretary discovers inconsistencies in staff records. The proper step is to:",
+    "o": [
+      "Verify and update records appropriately",
+      "Ignore the inconsistencies",
+      "Delete all records",
+      "Transfer all staff"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A Zonal Office receives a misconduct report. Its first responsibility is to:",
+    "o": [
+      "Investigate and make recommendations",
+      "Dismiss immediately",
+      "Ignore the report",
+      "Transfer without inquiry"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A teacher seeking the proper channel for complaint should use:",
+    "o": [
+      "The established administrative hierarchy",
+      "Social media",
+      "Anonymous leaflets",
+      "Student representatives"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Zonal Offices support the Commission by:",
+    "o": [
+      "Providing local supervision and reports",
+      "Replacing school principals",
+      "Approving WAEC results",
+      "Collecting market fees"
+    ],
+    "a": 0,
+    "category": "Zonal Offices"
+  },
+  {
+    "q": "A well-functioning zonal system helps the Commission to:",
+    "o": [
+      "Monitor schools more effectively",
+      "Avoid supervision",
+      "Cancel staff records",
+      "Replace all principals"
+    ],
+    "a": 0,
+    "category": "Zonal Offices"
+  }
+]

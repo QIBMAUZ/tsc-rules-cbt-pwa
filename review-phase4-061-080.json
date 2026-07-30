@@ -1,0 +1,222 @@
+[
+  {
+    "q": "Any teacher who refuses posting renders himself/herself liable to:",
+    "o": [
+      "Dismissal from service",
+      "Automatic promotion",
+      "Salary increase",
+      "Study leave"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "According to the Teachers’ Code of Conduct, the Principal shall be a professionally trained:",
+    "o": [
+      "Teacher",
+      "Engineer",
+      "Trader",
+      "Driver"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "The Code of Conduct for Principals requires the Principal to be transparent, impartial and firm in dealings with:",
+    "o": [
+      "Members of staff",
+      "Only family members",
+      "Political associates",
+      "Only students outside school"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "A Principal must keep staff aware of all information that may be of advantage to them. This promotes:",
+    "o": [
+      "Openness and communication",
+      "Secrecy",
+      "Fraud",
+      "Truancy"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "A Principal must not use his/her position to further the political aspiration of:",
+    "o": [
+      "Any political party",
+      "The school library",
+      "Students’ register",
+      "Health records"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "A Principal must ensure proper custody and maintenance of school properties and keep records of:",
+    "o": [
+      "All school properties",
+      "Only personal items",
+      "Only gifts",
+      "Only canteen goods"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Which one is a specific regulation for teaching staff?",
+    "o": [
+      "Teachers must be loyal to the school, Principal and profession",
+      "Teachers must ignore the Principal",
+      "Teachers must sell items to students",
+      "Teachers must avoid punctuality"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "A teacher should set a good example by:",
+    "o": [
+      "General conduct, manner, speech and diligence",
+      "Skipping classes",
+      "Coming late",
+      "Hiding lesson notes"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Teachers shall not do anything to bring shame or dishonour to:",
+    "o": [
+      "Their profession",
+      "Only their subject",
+      "Only their class",
+      "Only private business"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Teachers shall keep confidential matters of school secret. This means they should not:",
+    "o": [
+      "Disclose sensitive school information improperly",
+      "Prepare lesson notes",
+      "Attend class",
+      "Help students"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Teachers shall not undertake remunerative activities outside school hours except with:",
+    "o": [
+      "Express permission of the Principal",
+      "Permission of a student",
+      "No permission",
+      "Permission of a trader"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Teachers shall not make defamatory statements about fellow teachers and the Principal before:",
+    "o": [
+      "Students or members of the general public",
+      "Only animals",
+      "Only books",
+      "Nobody at all"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Teachers shall not collect fees or conduct classes for students outside school hours for:",
+    "o": [
+      "A fee",
+      "Free guidance approved by school",
+      "Moral instruction",
+      "School assembly"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Which organization can teachers form in the school to prevent secret society introduction?",
+    "o": [
+      "Organization of teachers/students association",
+      "Political party",
+      "Market group",
+      "Transport union"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "A teacher should attend professional conferences relevant to official duties when:",
+    "o": [
+      "Officially required to do so",
+      "Students demand it",
+      "Parents forbid it",
+      "He or she wants to avoid school"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "A teacher required to teach at least ten periods per week shall do so subject to class and subject needs. This duty belongs to:",
+    "o": [
+      "Vice-Principal",
+      "Cleaner",
+      "Messenger",
+      "Driver"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "In teaching, teachers should arrive at least how many minutes before the prescribed opening time?",
+    "o": [
+      "5 minutes",
+      "10 minutes",
+      "20 minutes",
+      "30 minutes"
+    ],
+    "a": 1,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "A teacher who is absent because of illness must report the case in writing and supported by:",
+    "o": [
+      "Acceptable medical certificate",
+      "A market receipt",
+      "A student note",
+      "A transport ticket"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "The teacher who is absent without acceptable reason may have the absence reported to:",
+    "o": [
+      "The Commission through the Principal",
+      "Students only",
+      "Parents only",
+      "School vendor"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "A teacher may be expected by the Teaching Service Commission, Principal or HOD to attend meetings beyond normal hours if necessary for education. This is:",
+    "o": [
+      "Allowed by the handbook",
+      "Forbidden always",
+      "Only for students",
+      "Only for bursars"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  }
+]

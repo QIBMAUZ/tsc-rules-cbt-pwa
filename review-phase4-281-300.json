@@ -1,0 +1,222 @@
+[
+  {
+    "q": "Non-teaching staff support school effectiveness through:",
+    "o": [
+      "Administrative and support services",
+      "Classroom teaching only",
+      "Student examinations only",
+      "Political activities"
+    ],
+    "a": 0,
+    "category": "Non-Teaching Staff"
+  },
+  {
+    "q": "The Executive Officer (Accounts) is responsible for:",
+    "o": [
+      "Financial administration",
+      "Teaching Mathematics",
+      "Conducting promotions",
+      "School security"
+    ],
+    "a": 0,
+    "category": "Non-Teaching Staff"
+  },
+  {
+    "q": "Confidential Secretaries handle:",
+    "o": [
+      "Confidential correspondence and records",
+      "Teaching students",
+      "Managing school farms",
+      "Conducting interviews"
+    ],
+    "a": 0,
+    "category": "Office Procedures"
+  },
+  {
+    "q": "The Confidential Secretary cadre extends up to:",
+    "o": [
+      "Chief Confidential Secretary",
+      "Principal Teacher",
+      "Director of Education",
+      "Chief Accountant"
+    ],
+    "a": 0,
+    "category": "Office Procedures"
+  },
+  {
+    "q": "A clerical officer is expected to maintain:",
+    "o": [
+      "Accurate office records",
+      "Student discipline only",
+      "School farms",
+      "Sports equipment only"
+    ],
+    "a": 0,
+    "category": "Office Procedures"
+  },
+  {
+    "q": "Store records help ensure:",
+    "o": [
+      "Proper accountability of materials",
+      "Promotion eligibility",
+      "Student enrollment",
+      "Retirement processing"
+    ],
+    "a": 0,
+    "category": "Store Keeping"
+  },
+  {
+    "q": "Stock verification is meant to:",
+    "o": [
+      "Confirm accuracy of store records",
+      "Promote staff",
+      "Transfer teachers",
+      "Register students"
+    ],
+    "a": 0,
+    "category": "Store Keeping"
+  },
+  {
+    "q": "School stores should be managed to prevent:",
+    "o": [
+      "Loss and misuse of materials",
+      "Teacher promotions",
+      "Student admission",
+      "Annual leave"
+    ],
+    "a": 0,
+    "category": "Store Keeping"
+  },
+  {
+    "q": "A requisition form is commonly used to:",
+    "o": [
+      "Request materials from the store",
+      "Approve retirement",
+      "Conduct examinations",
+      "Transfer service"
+    ],
+    "a": 0,
+    "category": "Store Keeping"
+  },
+  {
+    "q": "Office records are preserved because they:",
+    "o": [
+      "Provide institutional memory",
+      "Replace teaching",
+      "Eliminate supervision",
+      "Reduce accountability"
+    ],
+    "a": 0,
+    "category": "Office Procedures"
+  },
+  {
+    "q": "Official correspondence should be:",
+    "o": [
+      "Properly documented and filed",
+      "Handled verbally only",
+      "Destroyed immediately",
+      "Ignored"
+    ],
+    "a": 0,
+    "category": "Office Procedures"
+  },
+  {
+    "q": "A filing system should promote:",
+    "o": [
+      "Easy retrieval of information",
+      "Loss of records",
+      "Confusion",
+      "Secrecy"
+    ],
+    "a": 0,
+    "category": "Office Procedures"
+  },
+  {
+    "q": "A clerical officer keeping accurate records shows:",
+    "o": [
+      "Professional efficiency",
+      "Misconduct",
+      "Negligence",
+      "Insubordination"
+    ],
+    "a": 0,
+    "category": "Office Procedures"
+  },
+  {
+    "q": "Proper documentation supports:",
+    "o": [
+      "Accountability",
+      "Avoidance of responsibility",
+      "Reduced transparency",
+      "Secrecy"
+    ],
+    "a": 0,
+    "category": "Office Procedures"
+  },
+  {
+    "q": "A storekeeper discovers shortages. The proper action is to:",
+    "o": [
+      "Investigate and report the discrepancy",
+      "Ignore it",
+      "Alter records",
+      "Destroy stock cards"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "An Account Officer receives money without issuing a receipt. This violates:",
+    "o": [
+      "Financial procedures",
+      "Promotion guidelines",
+      "Leave regulations",
+      "Transfer rules"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A Confidential Secretary receives a confidential document. The correct action is to:",
+    "o": [
+      "Handle it according to procedures",
+      "Share it",
+      "Post it online",
+      "Discard it"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A clerical officer notices missing files. The first action should be to:",
+    "o": [
+      "Search and report according to procedure",
+      "Ignore it",
+      "Create false records",
+      "Destroy files"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A storekeeper releases materials without authorization. This may result in:",
+    "o": [
+      "Administrative or disciplinary action",
+      "Promotion",
+      "Award of excellence",
+      "Automatic transfer"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Non-teaching staff are expected to observe:",
+    "o": [
+      "Service rules and office discipline",
+      "Student timetable only",
+      "Private business rules",
+      "Party directives"
+    ],
+    "a": 0,
+    "category": "Non-Teaching Staff"
+  }
+]

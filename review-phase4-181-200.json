@@ -1,0 +1,222 @@
+[
+  {
+    "q": "A teacher who abandons duty without permission may be charged with:",
+    "o": [
+      "Commendable conduct",
+      "Misconduct",
+      "Promotion offence",
+      "Transfer violation"
+    ],
+    "a": 1,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "Which conduct may attract disciplinary action?",
+    "o": [
+      "Persistent lateness",
+      "Excellent performance",
+      "Prompt attendance",
+      "Proper record keeping"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "The primary purpose of discipline is to:",
+    "o": [
+      "Correct misconduct and maintain standards",
+      "Punish all staff",
+      "Reduce promotions",
+      "Increase transfers"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "A teacher found guilty of examination malpractice may face:",
+    "o": [
+      "Disciplinary action",
+      "Automatic promotion",
+      "Special allowance",
+      "Study leave"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "Ultimate disciplinary authority over teachers is vested in:",
+    "o": [
+      "Teaching Service Commission",
+      "PTA",
+      "Student Council",
+      "Trade Union"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "A written caution is:",
+    "o": [
+      "A disciplinary measure",
+      "A promotion exercise",
+      "A retirement process",
+      "A transfer document"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "Dismissal from service is usually reserved for:",
+    "o": [
+      "Serious misconduct",
+      "First-time lateness",
+      "Annual leave application",
+      "Transfer requests"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "Failure to comply with lawful posting may result in:",
+    "o": [
+      "Disciplinary action",
+      "Automatic promotion",
+      "Salary increment",
+      "Award of merit"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "A teacher who falsifies official records is guilty of:",
+    "o": [
+      "Serious misconduct",
+      "Minor misconduct",
+      "Professional development",
+      "Authorized conduct"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "The disciplinary process should be guided by:",
+    "o": [
+      "Fairness and due process",
+      "Personal feelings",
+      "Rumours",
+      "Political affiliation"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "A Principal discovers repeated lateness. The first proper step is to:",
+    "o": [
+      "Ignore the matter",
+      "Provide counselling and issue appropriate warning",
+      "Recommend immediate promotion",
+      "Transfer immediately"
+    ],
+    "a": 1,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A teacher shares confidential student records online. The violated principle is:",
+    "o": [
+      "Confidentiality",
+      "Punctuality",
+      "Promotion policy",
+      "Transfer procedure"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A teacher is offered money to influence results. The correct action is to:",
+    "o": [
+      "Reject and report the matter",
+      "Accept secretly",
+      "Negotiate higher amount",
+      "Ignore the rules"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A Principal receives a complaint against a teacher. The best action is to:",
+    "o": [
+      "Investigate fairly before decision",
+      "Punish immediately",
+      "Ignore it",
+      "Discuss publicly with students"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A teacher refuses assigned periods without valid reason. This is:",
+    "o": [
+      "Neglect of duty",
+      "Professional excellence",
+      "Authorized absence",
+      "Commendation"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A teacher insults a colleague during assembly. This violates:",
+    "o": [
+      "Professional ethics and decorum",
+      "Lesson planning",
+      "Transfer regulations",
+      "Annual leave procedures"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Suspension from duty may be considered where:",
+    "o": [
+      "Misconduct is serious or under investigation",
+      "A teacher is promoted",
+      "A teacher attends class",
+      "Records are accurate"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "An absent teacher should report the reason for absence through:",
+    "o": [
+      "The Principal and proper channel",
+      "Students",
+      "Market leaders",
+      "Social media only"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "Disciplinary action should not be based only on:",
+    "o": [
+      "Rumour and bias",
+      "Evidence",
+      "Investigation",
+      "Due process"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  },
+  {
+    "q": "The aim of sanctioning misconduct is to protect:",
+    "o": [
+      "Service standards and public trust",
+      "Private gain",
+      "Political interest",
+      "Record falsification"
+    ],
+    "a": 0,
+    "category": "Discipline and Sanctions"
+  }
+]

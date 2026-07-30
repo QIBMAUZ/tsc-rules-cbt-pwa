@@ -1,0 +1,222 @@
+[
+  {
+    "q": "Which office serves as the administrative head and accounting officer of the Teaching Service Commission?",
+    "o": [
+      "Office of the Chairman",
+      "Office of the Permanent Secretary",
+      "Office of the Principal-General",
+      "Department of Finance"
+    ],
+    "a": 1,
+    "category": "Commission Structure"
+  },
+  {
+    "q": "Who serves as the Chief Executive of the Teaching Service Commission?",
+    "o": [
+      "Chairman",
+      "Permanent Secretary",
+      "Principal-General",
+      "Director of Administration"
+    ],
+    "a": 0,
+    "category": "Commission Structure"
+  },
+  {
+    "q": "The Teaching Service Commission is responsible mainly for staff in:",
+    "o": [
+      "Public post-primary schools",
+      "Private universities",
+      "Primary schools only",
+      "Federal ministries"
+    ],
+    "a": 0,
+    "category": "Commission Structure"
+  },
+  {
+    "q": "One core function of the Commission is:",
+    "o": [
+      "Appointment of staff",
+      "Issuing WAEC certificates",
+      "Conducting elections",
+      "Registering political parties"
+    ],
+    "a": 0,
+    "category": "Commission Structure"
+  },
+  {
+    "q": "The tenure of the Chairman and members of the Commission is determined by:",
+    "o": [
+      "The Chief Executive of the State",
+      "The Principal-General",
+      "The PTA",
+      "The students"
+    ],
+    "a": 0,
+    "category": "Commission Structure"
+  },
+  {
+    "q": "The Permanent Secretary serves as:",
+    "o": [
+      "Secretary to the Commission",
+      "Chairman of the Commission",
+      "Head of NUT",
+      "Chief Examiner"
+    ],
+    "a": 0,
+    "category": "Commission Structure"
+  },
+  {
+    "q": "The Department of Administration and Supplies is concerned mainly with:",
+    "o": [
+      "Personnel and general administration",
+      "Student sports",
+      "School farms",
+      "Political mobilization"
+    ],
+    "a": 0,
+    "category": "Departments and Divisions"
+  },
+  {
+    "q": "The Finance and Accounts Department handles:",
+    "o": [
+      "Financial management and accounting",
+      "Student counselling only",
+      "Lesson preparation",
+      "School sports"
+    ],
+    "a": 0,
+    "category": "Departments and Divisions"
+  },
+  {
+    "q": "The Planning, Research and Statistics Department assists through:",
+    "o": [
+      "Data collection and analysis",
+      "Political campaigns",
+      "School uniform sales",
+      "Canteen supervision"
+    ],
+    "a": 0,
+    "category": "Departments and Divisions"
+  },
+  {
+    "q": "The Information Technology Department supports the Commission through:",
+    "o": [
+      "Technology and information systems",
+      "Road construction",
+      "Court proceedings",
+      "Student clubs"
+    ],
+    "a": 0,
+    "category": "Departments and Divisions"
+  },
+  {
+    "q": "Which department handles software development and evaluation?",
+    "o": [
+      "Administration and Supplies",
+      "Finance and Accounts",
+      "Planning, Research and Statistics",
+      "Information Technology"
+    ],
+    "a": 3,
+    "category": "Departments and Divisions"
+  },
+  {
+    "q": "Which department contains Budget Performance, Monitoring and Evaluation?",
+    "o": [
+      "Information Technology",
+      "Planning, Research and Statistics",
+      "Finance and Accounts",
+      "Administration and Supplies"
+    ],
+    "a": 1,
+    "category": "Departments and Divisions"
+  },
+  {
+    "q": "How many Principal-General divisions are recognized in the handbook?",
+    "o": [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    "a": 0,
+    "category": "Departments and Divisions"
+  },
+  {
+    "q": "Which of these is a recognized division in the handbook?",
+    "o": [
+      "Remo",
+      "Ikeja",
+      "Ibadan",
+      "Akure"
+    ],
+    "a": 0,
+    "category": "Departments and Divisions"
+  },
+  {
+    "q": "Which of the following is NOT listed as a Principal-General division?",
+    "o": [
+      "Remo",
+      "Ijebu",
+      "Egba",
+      "Yewa North"
+    ],
+    "a": 3,
+    "category": "Departments and Divisions"
+  },
+  {
+    "q": "The Nigerian Union of Teachers is a recognized:",
+    "o": [
+      "Trade union",
+      "Examination body",
+      "Political party",
+      "Bank"
+    ],
+    "a": 0,
+    "category": "Trade Unions and Associations"
+  },
+  {
+    "q": "What does ASUSS stand for?",
+    "o": [
+      "Association of Secondary School Supervisors",
+      "Academic Staff Union of Secondary Schools",
+      "Association of Senior Secondary Schools",
+      "Academic Service Union of Schools"
+    ],
+    "a": 1,
+    "category": "Trade Unions and Associations"
+  },
+  {
+    "q": "ANCOPSS is an association primarily for:",
+    "o": [
+      "Principals of secondary schools",
+      "Students",
+      "Parents",
+      "Account Officers"
+    ],
+    "a": 0,
+    "category": "Trade Unions and Associations"
+  },
+  {
+    "q": "Trade unions primarily protect:",
+    "o": [
+      "Members' professional interests",
+      "Student punishments",
+      "School buildings",
+      "Election results"
+    ],
+    "a": 0,
+    "category": "Trade Unions and Associations"
+  },
+  {
+    "q": "Which association is recognized for principals of secondary schools?",
+    "o": [
+      "NUT",
+      "ANCOPSS",
+      "ASUSS",
+      "NASU"
+    ],
+    "a": 1,
+    "category": "Trade Unions and Associations"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "q": "The Vice Principal assists the Principal in:",
+    "o": [
+      "School administration and supervision",
+      "State legislation",
+      "Judicial proceedings",
+      "Tax collection"
+    ],
+    "a": 0,
+    "category": "Vice Principal Responsibilities"
+  },
+  {
+    "q": "In the absence of the Principal, the Vice Principal should:",
+    "o": [
+      "Take charge of the school",
+      "Close the school",
+      "Refer all matters to students",
+      "Suspend activities"
+    ],
+    "a": 0,
+    "category": "Vice Principal Responsibilities"
+  },
+  {
+    "q": "A Vice Principal should ensure teachers:",
+    "o": [
+      "Carry out assigned duties effectively",
+      "Ignore lesson plans",
+      "Leave classes unattended",
+      "Avoid assessments"
+    ],
+    "a": 0,
+    "category": "Vice Principal Responsibilities"
+  },
+  {
+    "q": "One major duty of the Vice Principal is maintaining:",
+    "o": [
+      "Discipline",
+      "Private business records",
+      "Political registers",
+      "Market regulations"
+    ],
+    "a": 0,
+    "category": "Vice Principal Responsibilities"
+  },
+  {
+    "q": "The Vice Principal should monitor:",
+    "o": [
+      "Teaching and learning activities",
+      "Political campaigns",
+      "Private investments",
+      "Commercial ventures"
+    ],
+    "a": 0,
+    "category": "Vice Principal Responsibilities"
+  },
+  {
+    "q": "A Vice Principal assigned an academic programme should:",
+    "o": [
+      "Carry out the assignment diligently",
+      "Reject without reason",
+      "Delegate to students",
+      "Ignore it"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A Vice Principal finds exam materials unsecured overnight. The proper action is to:",
+    "o": [
+      "Secure and report the incident",
+      "Leave them",
+      "Distribute them",
+      "Destroy them"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Effective school administration requires:",
+    "o": [
+      "Proper planning and coordination",
+      "Frequent conflicts",
+      "Lack of supervision",
+      "Poor communication"
+    ],
+    "a": 0,
+    "category": "School Administration"
+  },
+  {
+    "q": "A well-administered school is characterized by:",
+    "o": [
+      "Orderliness and accountability",
+      "Confusion and secrecy",
+      "Absence of records",
+      "No supervision"
+    ],
+    "a": 0,
+    "category": "School Administration"
+  },
+  {
+    "q": "School records should be maintained because they:",
+    "o": [
+      "Provide reliable information for decisions",
+      "Increase workload unnecessarily",
+      "Replace teaching",
+      "Eliminate supervision"
+    ],
+    "a": 0,
+    "category": "Record Keeping"
+  },
+  {
+    "q": "Which of the following is an important school record?",
+    "o": [
+      "Attendance Register",
+      "Political Register",
+      "Market Register",
+      "Tax Ledger"
+    ],
+    "a": 0,
+    "category": "Record Keeping"
+  },
+  {
+    "q": "Accurate record keeping promotes:",
+    "o": [
+      "Accountability and efficiency",
+      "Confusion",
+      "Favoritism",
+      "Negligence"
+    ],
+    "a": 0,
+    "category": "Record Keeping"
+  },
+  {
+    "q": "A school's attendance register is not updated for a week. The administrator should:",
+    "o": [
+      "Ensure immediate updating",
+      "Destroy the register",
+      "Ignore it",
+      "Wait until term end"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A Vice Principal finds important records missing. The first step is to:",
+    "o": [
+      "Investigate and secure remaining records",
+      "Ignore it",
+      "Blame students without evidence",
+      "Destroy other records"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "Official school records should be:",
+    "o": [
+      "Accurate, current and properly kept",
+      "Hidden permanently",
+      "Destroyed yearly",
+      "Kept by students only"
+    ],
+    "a": 0,
+    "category": "Record Keeping"
+  },
+  {
+    "q": "Record keeping helps school leaders to:",
+    "o": [
+      "Plan and evaluate performance",
+      "Avoid responsibility",
+      "Hide misconduct",
+      "Stop supervision"
+    ],
+    "a": 0,
+    "category": "Record Keeping"
+  },
+  {
+    "q": "A teacher who falsifies school records commits:",
+    "o": [
+      "Serious misconduct",
+      "Minor lateness",
+      "Annual leave offence",
+      "Transfer violation"
+    ],
+    "a": 0,
+    "category": "Record Keeping"
+  },
+  {
+    "q": "Administrative efficiency depends partly on:",
+    "o": [
+      "Reliable documentation",
+      "Verbal instructions only",
+      "Loss of files",
+      "Poor filing"
+    ],
+    "a": 0,
+    "category": "School Administration"
+  },
+  {
+    "q": "A school without proper records may suffer:",
+    "o": [
+      "Poor accountability",
+      "Improved management",
+      "Automatic promotion",
+      "Better audit"
+    ],
+    "a": 0,
+    "category": "Record Keeping"
+  },
+  {
+    "q": "Teachers and administrators should treat official records as:",
+    "o": [
+      "Important evidence of school activities",
+      "Personal property",
+      "Items for disposal",
+      "Student entertainment"
+    ],
+    "a": 0,
+    "category": "Record Keeping"
+  }
+]

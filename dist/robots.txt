@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+
+Sitemap: https://tsc-rules-cbt.qibmauz.com/sitemap.xml

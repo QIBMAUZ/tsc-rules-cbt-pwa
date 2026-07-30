@@ -1,0 +1,222 @@
+[
+  {
+    "q": "The Ogun State Post-Primary Teaching Service Commission was established by which edict?",
+    "o": [
+      "Edict No. 5 of 1988",
+      "Edict No. 3 of June 6, 1991",
+      "Education Law No. 7 of 2001",
+      "Public Service Rule No. 12 of 1991"
+    ],
+    "a": 1,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "The Teaching Service Commission is responsible for all the following EXCEPT:",
+    "o": [
+      "Appointment",
+      "Posting and transfer",
+      "Payment of salaries and allowances",
+      "Issuing passports to teachers"
+    ],
+    "a": 3,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "The Commission is constituted of a Chairman, four full-time members and how many part-time members?",
+    "o": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "a": 1,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Who determines the tenure of office of the Chairman and members of the Commission?",
+    "o": [
+      "Permanent Secretary",
+      "Chief Executive of the State",
+      "Principal-General",
+      "Zonal Secretary"
+    ],
+    "a": 1,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Which office serves as the Secretary to the Commission?",
+    "o": [
+      "Office of the Chairman",
+      "Office of the Principal-General",
+      "Office of the Permanent Secretary",
+      "Office of Finance Officer"
+    ],
+    "a": 2,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "The Department of Administration and Supplies is subdivided into all the following sections EXCEPT:",
+    "o": [
+      "Personnel Management",
+      "General Administration",
+      "Appointments",
+      "Software Development"
+    ],
+    "a": 3,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Which department contains the Schools and Personnel Emoluments Section?",
+    "o": [
+      "Administration and Supplies",
+      "Finance and Accounts",
+      "Information Technology",
+      "Planning, Research and Statistics"
+    ],
+    "a": 1,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Which of these is a recognized trade union in the Teaching Service of Ogun State?",
+    "o": [
+      "Nigerian Union of Teachers",
+      "Academic Staff Union of Universities",
+      "Nigeria Labour Congress only",
+      "National Union of Journalists"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "NUT stands for:",
+    "o": [
+      "National Union of Tutors",
+      "Nigeria Union of Teachers",
+      "Nigerian Union of Teachers",
+      "National University Teachers"
+    ],
+    "a": 2,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "ANCOPSS refers to:",
+    "o": [
+      "Association of Nigerian Conference of Principals of Secondary Schools",
+      "All Nigeria Confederation of Principals of Secondary Schools",
+      "Association of Non-Teaching Staff",
+      "Association of Nigerian Counselors"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "As at the date of the handbook, how many Principals-General existed, one for each division?",
+    "o": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "a": 2,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "The four divisions listed in the handbook are:",
+    "o": [
+      "Lagos, Ibadan, Abeokuta, Ijebu",
+      "Remo, Ijebu, Yewa and Egba",
+      "Egba, Oyo, Remo and Ijebu",
+      "Yewa, Ondo, Egba and Ijebu"
+    ],
+    "a": 1,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "One function of Principals-General is to run a mini-Teaching Service Commission at what level?",
+    "o": [
+      "Federal level",
+      "Divisional level",
+      "Classroom level",
+      "Student level"
+    ],
+    "a": 1,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Principals-General are expected to coordinate activities of which offices?",
+    "o": [
+      "Zonal Secretaries within the Division",
+      "Only primary schools",
+      "Universities only",
+      "Private schools only"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Which of the following is a function of a Principal-General?",
+    "o": [
+      "Issuing passports",
+      "Holding regular meetings with Zonal Secretaries",
+      "Printing certificates",
+      "Registering political parties"
+    ],
+    "a": 1,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Which body do Principals-General report to through the Permanent Secretary?",
+    "o": [
+      "Teaching Service Commission",
+      "Local Government Council",
+      "Teacher Association only",
+      "Ministry of Finance"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Zonal offices monitor teaching and non-teaching staff mainly in:",
+    "o": [
+      "Universities",
+      "Public secondary schools in the zone",
+      "Federal colleges only",
+      "Private businesses"
+    ],
+    "a": 1,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "One duty of a Zonal Office is to investigate cases referred to it by:",
+    "o": [
+      "The Commission and Principal-General",
+      "Students only",
+      "Parents only",
+      "Police only"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Secretaries to Zonal Offices are charged with supervision of the day-to-day activities of:",
+    "o": [
+      "The Zonal Offices",
+      "Student clubs",
+      "Private schools only",
+      "Transport unions"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Who compiles and updates the nominal roll of teaching/non-teaching staff in schools in the zone?",
+    "o": [
+      "Zonal Secretary",
+      "Student prefect",
+      "Class teacher only",
+      "School librarian"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  }
+]

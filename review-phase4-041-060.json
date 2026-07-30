@@ -1,0 +1,222 @@
+[
+  {
+    "q": "For transfer of service, documents required include all EXCEPT:",
+    "o": [
+      "Application by staff",
+      "Final letter of release",
+      "Last pay certificate",
+      "Personal shopping receipt"
+    ],
+    "a": 3,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Teaching and non-teaching staff are entitled to annual leave during:",
+    "o": [
+      "School vacations",
+      "Every weekend",
+      "Only public holidays",
+      "Examination weeks only"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "It is the duty of Executive Officers (Accounts) to ensure prompt collection of sums due and issue receipts on the appropriate form. This statement is:",
+    "o": [
+      "True",
+      "False",
+      "Only for teachers",
+      "Only for parents"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Which of these is listed as a book/document to be kept by Account Officers?",
+    "o": [
+      "Daily Cash Book",
+      "Student diary only",
+      "Lesson note",
+      "Library catalogue"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Daily Cash Book entries must be made from receipts and payments:",
+    "o": [
+      "Daily",
+      "Weekly",
+      "Monthly",
+      "Yearly"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Contra entries in the cheque form for petty cash expenses and deductions on salary payment vouchers must be entered into the:",
+    "o": [
+      "Daily Cash Book",
+      "Attendance Register",
+      "Textbook list",
+      "Library card"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Every payment voucher must be authorized by:",
+    "o": [
+      "The Principal",
+      "Any student",
+      "The cleaner",
+      "The driver"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "The bank reconciliation statement is rendered every month by:",
+    "o": [
+      "Account Officers",
+      "Students",
+      "Parents",
+      "Prefects"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Advance to a teacher may be granted for transport assistance and must be approved by:",
+    "o": [
+      "The Commission after Principal’s recommendation",
+      "Any teacher",
+      "A student leader",
+      "The school vendor"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "The handbook advises secondary schools/colleges not to grant advances to staff members outside the stipulated ones because:",
+    "o": [
+      "It may cause financial loss",
+      "It is always compulsory",
+      "It is a political matter",
+      "It is a student duty"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Post and salary guidelines in the handbook follow the same guidelines as:",
+    "o": [
+      "The Civil Service",
+      "Private companies only",
+      "Federal road service",
+      "University senate"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Confidential Secretary cadre runs from Assistant Confidential Secretary to:",
+    "o": [
+      "Chief Confidential Secretary",
+      "Principal Teacher",
+      "Head Cleaner",
+      "Chief Driver"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "A clerical officer who passes prescribed examinations may cross to which cadre?",
+    "o": [
+      "Executive Officer cadre",
+      "Teaching cadre automatically",
+      "Medical cadre",
+      "Police cadre"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Who is the administrative and academic head of the school?",
+    "o": [
+      "Principal",
+      "Bursar",
+      "Cleaner",
+      "Student prefect"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "One expected personal quality of a Principal is to be:",
+    "o": [
+      "Pleasant, approachable and conscious of parents/guardians and students",
+      "Secretive and hostile",
+      "Absent from school",
+      "Unconcerned with students"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "The Principal shall maintain a cordial relationship with members of staff by ensuring delegation of authority without abdicating:",
+    "o": [
+      "Overall responsibility to supervise",
+      "All responsibilities permanently",
+      "The school premises",
+      "All student records"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Which committee should be established as a channel of communication between the Principal and students?",
+    "o": [
+      "Student Representative Council",
+      "Election Tribunal",
+      "Market Committee",
+      "Transport Union"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "The Fund Management Committee includes the Principal, the most senior Vice-Principal, the Account Officer, and how many teaching staff?",
+    "o": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "a": 1,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "The Principal shall give academic leadership to staff since the school is:",
+    "o": [
+      "An academic community",
+      "A market place",
+      "A political office",
+      "A bank"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "A Principal should give demonstration lessons where necessary. This statement is:",
+    "o": [
+      "True",
+      "False",
+      "Only for bursars",
+      "Only for non-teaching staff"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  }
+]

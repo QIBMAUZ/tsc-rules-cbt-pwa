@@ -1,0 +1,222 @@
+[
+  {
+    "q": "The normal retirement age in the Teaching Service is:",
+    "o": [
+      "55 years",
+      "60 years",
+      "65 years",
+      "70 years"
+    ],
+    "a": 1,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "An officer retires after 35 years of pensionable service even if not yet:",
+    "o": [
+      "50 years",
+      "55 years",
+      "60 years",
+      "65 years"
+    ],
+    "a": 2,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "A retiring officer should give:",
+    "o": [
+      "One month's notice",
+      "Two months' notice",
+      "Three months' notice",
+      "Six months' notice"
+    ],
+    "a": 2,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "Voluntary retirement is generally available after more than:",
+    "o": [
+      "5 years",
+      "10 years",
+      "15 years",
+      "20 years"
+    ],
+    "a": 1,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "Annual leave is intended primarily to:",
+    "o": [
+      "Punish staff",
+      "Provide rest and recuperation",
+      "Replace retirement",
+      "Serve as disciplinary action"
+    ],
+    "a": 1,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "Teaching and non-teaching staff take annual leave during:",
+    "o": [
+      "School vacations",
+      "Examination periods only",
+      "Public holidays only",
+      "Every Friday"
+    ],
+    "a": 0,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "A staff member who intends to resign should normally give:",
+    "o": [
+      "One month's notice",
+      "Three months' notice",
+      "Six months' notice",
+      "One year's notice"
+    ],
+    "a": 0,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "Payment in lieu of notice applies mainly to:",
+    "o": [
+      "Promotion",
+      "Transfer",
+      "Resignation",
+      "Retirement"
+    ],
+    "a": 2,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "An officer who continues after mandatory retirement without approval is:",
+    "o": [
+      "On annual leave",
+      "Overstaying in service",
+      "On transfer",
+      "On promotion"
+    ],
+    "a": 1,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "Transfer of service can be processed after an officer has:",
+    "o": [
+      "Obtained confirmation of appointment",
+      "Completed retirement",
+      "Served 35 years",
+      "Been promoted twice"
+    ],
+    "a": 0,
+    "category": "Transfer of Service"
+  },
+  {
+    "q": "One essential transfer of service document is:",
+    "o": [
+      "Final letter of release",
+      "Student identity card",
+      "Trade union receipt",
+      "Medical prescription"
+    ],
+    "a": 0,
+    "category": "Transfer of Service"
+  },
+  {
+    "q": "Transfer of service requires movement to a recognized body and proper:",
+    "o": [
+      "Release and documentation",
+      "Student approval",
+      "Market approval",
+      "Party membership"
+    ],
+    "a": 0,
+    "category": "Transfer of Service"
+  },
+  {
+    "q": "A staff member transferred without proper release may face:",
+    "o": [
+      "Administrative complications",
+      "Automatic promotion",
+      "Special allowance",
+      "Study leave"
+    ],
+    "a": 0,
+    "category": "Transfer of Service"
+  },
+  {
+    "q": "Rural allowance encourages staff to serve in:",
+    "o": [
+      "Urban centres",
+      "Rural and underserved areas",
+      "Private schools",
+      "Universities"
+    ],
+    "a": 1,
+    "category": "Rural Allowance"
+  },
+  {
+    "q": "One condition for rural allowance is service in a rural area for at least:",
+    "o": [
+      "Six months",
+      "One year",
+      "Two years",
+      "Five years"
+    ],
+    "a": 2,
+    "category": "Rural Allowance"
+  },
+  {
+    "q": "Rural areas are generally characterized by lack of:",
+    "o": [
+      "Modern social amenities",
+      "Students",
+      "Teachers",
+      "School buildings"
+    ],
+    "a": 0,
+    "category": "Rural Allowance"
+  },
+  {
+    "q": "A teacher posted to a designated rural area should:",
+    "o": [
+      "Serve diligently and comply with posting",
+      "Refuse the posting",
+      "Demand immediate urban transfer",
+      "Abandon duty"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  },
+  {
+    "q": "A staff member intending voluntary retirement after more than ten years should give:",
+    "o": [
+      "Three months' notice",
+      "One week notice",
+      "One year notice",
+      "No notice"
+    ],
+    "a": 0,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "Resignation without notice may require:",
+    "o": [
+      "Payment of one month salary in lieu",
+      "Automatic promotion",
+      "Rural allowance",
+      "Study leave"
+    ],
+    "a": 0,
+    "category": "Retirement and Leave"
+  },
+  {
+    "q": "Transfer of service should not be treated as:",
+    "o": [
+      "An informal movement without documentation",
+      "A documented process",
+      "An administrative procedure",
+      "A regulated service action"
+    ],
+    "a": 0,
+    "category": "Transfer of Service"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "q": "Under statutory retirement, the normal retirement age or length of service for officers is:",
+    "o": [
+      "50 years of age or 25 years service",
+      "60 years of age or 35 years service",
+      "65 years of age or 40 years service",
+      "55 years of age or 20 years service"
+    ],
+    "a": 1,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "A retiring officer should give how many months’ notice of intention to retire?",
+    "o": [
+      "One month",
+      "Two months",
+      "Three months",
+      "Six months"
+    ],
+    "a": 2,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Voluntary retirement requires notice when an officer has served for more than:",
+    "o": [
+      "5 years",
+      "10 years",
+      "15 years",
+      "20 years"
+    ],
+    "a": 1,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "A staff who resigns may resign by giving one month’s notice or by paying:",
+    "o": [
+      "One month’s salary in lieu of notice",
+      "Three months’ salary",
+      "Annual leave allowance",
+      "Transport allowance"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Withdrawal of service is based on conditions stipulated in which Ogun State law?",
+    "o": [
+      "Pension Law 2013",
+      "Education Law 2001",
+      "Civil Service Rule 1988",
+      "Finance Act 1991"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "A teacher is broadly described in the handbook as someone whose profession lies in:",
+    "o": [
+      "Buying and selling",
+      "Ability to impart knowledge, training, practical skills and understanding",
+      "Constructing roads",
+      "Issuing tax receipts"
+    ],
+    "a": 1,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "A professionally qualified teacher must be duly registered and licensed by:",
+    "o": [
+      "TRCN",
+      "WAEC",
+      "JAMB",
+      "NYSC"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Which certificate is recognized as a basic professional certificate in the Teaching Service?",
+    "o": [
+      "NCE",
+      "Primary Six Certificate",
+      "Driver’s Licence",
+      "Trade Test only"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Appointment of duty post applies only to qualified graduates who meet criteria laid down by:",
+    "o": [
+      "The Commission",
+      "Parent body",
+      "Student union",
+      "Local chiefs"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Promotions are based mainly on:",
+    "o": [
+      "Seniority only",
+      "Satisfaction of listed conditions such as APER and interviews",
+      "Personal friendship",
+      "Political campaign support"
+    ],
+    "a": 1,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "A teacher on GL. 07 and above must write promotion examination and attend interview for promotion to senior posts except where conditions say otherwise. This statement is:",
+    "o": [
+      "True",
+      "False",
+      "Only for cleaners",
+      "Only for principals"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "For promotion, satisfactory Annual Performance Evaluation Reports are required for:",
+    "o": [
+      "One year",
+      "Two years",
+      "Three years",
+      "Five years"
+    ],
+    "a": 2,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Which of these is listed as an unlisted document required for teachers’ retirement benefits?",
+    "o": [
+      "Birth certificate or declaration of age",
+      "Marriage certificate where applicable",
+      "Passport photographs",
+      "Market receipt"
+    ],
+    "a": 3,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Rural hardship allowance is paid to teachers and non-teaching staff posted to areas with:",
+    "o": [
+      "Good roads and electricity",
+      "Lack of social services such as water, health facilities, good roads and electricity",
+      "Excessive urban facilities",
+      "Only internet access"
+    ],
+    "a": 1,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "To qualify for rural allowance, a person must serve in a rural area mandatorily for at least:",
+    "o": [
+      "Six months",
+      "One year",
+      "Two years",
+      "Five years"
+    ],
+    "a": 2,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "Zonal Disciplinary Committees are established in which areas of government?",
+    "o": [
+      "All Local Government Areas",
+      "Only capital cities",
+      "Only universities",
+      "Only private schools"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "The Zonal Disciplinary Committee is made up of how many underlisted members?",
+    "o": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "a": 2,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "The Chairman of a Zonal Disciplinary Committee is:",
+    "o": [
+      "Most Senior Principal in the zone",
+      "Most Junior Teacher",
+      "Account Officer",
+      "Student representative"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "In a disciplinary committee, a senior classroom teacher in the zone serves as:",
+    "o": [
+      "Secretary/member",
+      "Chairman",
+      "Treasurer",
+      "Auditor"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  },
+  {
+    "q": "A teacher who wants to transfer service to another organization must ensure the appointment is confirmed and the new body is recognized and licensed by:",
+    "o": [
+      "TRCN",
+      "NUT",
+      "NYSC",
+      "PTA"
+    ],
+    "a": 0,
+    "category": "Teaching Service Rules"
+  }
+]

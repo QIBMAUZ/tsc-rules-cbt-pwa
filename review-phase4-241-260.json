@@ -1,0 +1,222 @@
+[
+  {
+    "q": "A teacher's primary responsibility is to:",
+    "o": [
+      "Facilitate learning and character development",
+      "Manage state finances",
+      "Conduct political campaigns",
+      "Operate private businesses"
+    ],
+    "a": 0,
+    "category": "Teacher Responsibilities"
+  },
+  {
+    "q": "Teachers are expected to be role models in:",
+    "o": [
+      "Conduct and character",
+      "Political influence",
+      "Private investments",
+      "Personal wealth"
+    ],
+    "a": 0,
+    "category": "Teacher Responsibilities"
+  },
+  {
+    "q": "Professionalism in teaching is shown by:",
+    "o": [
+      "Punctuality and preparedness",
+      "Frequent absenteeism",
+      "Ignoring rules",
+      "Delegating teaching to students"
+    ],
+    "a": 0,
+    "category": "Teacher Responsibilities"
+  },
+  {
+    "q": "Teachers should maintain accurate records of:",
+    "o": [
+      "Attendance and assessment",
+      "Political activities",
+      "Private business",
+      "Community disputes"
+    ],
+    "a": 0,
+    "category": "Teacher Responsibilities"
+  },
+  {
+    "q": "A teacher who consistently arrives late may be accused of:",
+    "o": [
+      "Neglect of duty",
+      "Professional excellence",
+      "Leadership ability",
+      "Meritorious service"
+    ],
+    "a": 0,
+    "category": "Teacher Responsibilities"
+  },
+  {
+    "q": "Teachers should prepare before class with:",
+    "o": [
+      "Lesson notes and instructional materials",
+      "Only attendance register",
+      "Only a textbook",
+      "Only exam questions"
+    ],
+    "a": 0,
+    "category": "Teacher Responsibilities"
+  },
+  {
+    "q": "Regular assessment of students helps to:",
+    "o": [
+      "Monitor learning progress",
+      "Reduce accountability",
+      "Encourage absence",
+      "Replace teaching"
+    ],
+    "a": 0,
+    "category": "Teacher Responsibilities"
+  },
+  {
+    "q": "Teachers should provide parents information about:",
+    "o": [
+      "Academic progress, attendance and behaviour",
+      "Private staff matters",
+      "Political opinions",
+      "Personnel files"
+    ],
+    "a": 0,
+    "category": "Communication with Parents"
+  },
+  {
+    "q": "Communication with parents is important because it:",
+    "o": [
+      "Supports student development",
+      "Creates unnecessary workload",
+      "Reduces accountability",
+      "Discourages participation"
+    ],
+    "a": 0,
+    "category": "Communication with Parents"
+  },
+  {
+    "q": "Student welfare includes:",
+    "o": [
+      "A safe and supportive learning environment",
+      "Ignoring concerns",
+      "Encouraging indiscipline",
+      "Avoiding supervision"
+    ],
+    "a": 0,
+    "category": "Student Welfare"
+  },
+  {
+    "q": "Teachers should encourage students to develop:",
+    "o": [
+      "Good character and responsibility",
+      "Disrespect for authority",
+      "Dishonesty",
+      "Malpractice"
+    ],
+    "a": 0,
+    "category": "Student Welfare"
+  },
+  {
+    "q": "Student attendance should be monitored to:",
+    "o": [
+      "Promote regular participation in learning",
+      "Reduce teaching duties",
+      "Increase transfers",
+      "Avoid assessment"
+    ],
+    "a": 0,
+    "category": "Student Welfare"
+  },
+  {
+    "q": "The Code of Conduct requires teachers to treat students with:",
+    "o": [
+      "Fairness and respect",
+      "Bias and discrimination",
+      "Fear and intimidation",
+      "Neglect"
+    ],
+    "a": 0,
+    "category": "Code of Conduct"
+  },
+  {
+    "q": "Teachers should avoid actions that bring:",
+    "o": [
+      "Disrepute to the profession",
+      "Recognition to the profession",
+      "Improved standards",
+      "Professional growth"
+    ],
+    "a": 0,
+    "category": "Code of Conduct"
+  },
+  {
+    "q": "Professional integrity requires a teacher to be:",
+    "o": [
+      "Honest and trustworthy",
+      "Manipulative",
+      "Biased",
+      "Unethical"
+    ],
+    "a": 0,
+    "category": "Code of Conduct"
+  },
+  {
+    "q": "Confidential information obtained through duty should be:",
+    "o": [
+      "Protected from unauthorized disclosure",
+      "Shared freely",
+      "Posted online",
+      "Discussed publicly"
+    ],
+    "a": 0,
+    "category": "Code of Conduct"
+  },
+  {
+    "q": "A teacher who leaks examination questions commits:",
+    "o": [
+      "Serious misconduct",
+      "Professional excellence",
+      "Administrative efficiency",
+      "Innovation"
+    ],
+    "a": 0,
+    "category": "Examination Ethics"
+  },
+  {
+    "q": "Examination supervision ensures:",
+    "o": [
+      "Fairness and credibility",
+      "Favoritism",
+      "Failure rates",
+      "Low attendance"
+    ],
+    "a": 0,
+    "category": "Examination Ethics"
+  },
+  {
+    "q": "A teacher noticing malpractice should:",
+    "o": [
+      "Report through appropriate channels",
+      "Assist the student",
+      "Ignore it",
+      "Reward it"
+    ],
+    "a": 0,
+    "category": "Examination Ethics"
+  },
+  {
+    "q": "A parent pressures a teacher to change scores. The teacher should:",
+    "o": [
+      "Maintain integrity and refuse",
+      "Comply",
+      "Negotiate reward",
+      "Ignore policies"
+    ],
+    "a": 0,
+    "category": "Scenario Based Questions"
+  }
+]
