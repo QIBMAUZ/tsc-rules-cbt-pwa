@@ -1,4 +1,4 @@
-const CACHE_NAME = 'tsc-rules-cbt-v25';
+const CACHE_NAME = 'tsc-rules-cbt-v26';
 const APP_SHELL = ['./','./index.html','./config.js','./manifest.json','./questions.json','./assets/ogun-teaching-service-manual-background.png','./icons/icon-192.png','./icons/icon-512.png'];
 const CACHE_PATHS = new Set(['/', '/index.html', '/config.js', '/manifest.json', '/questions.json', '/assets/ogun-teaching-service-manual-background.png', '/icons/icon-192.png', '/icons/icon-512.png']);
 self.addEventListener('install', event => event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(APP_SHELL)).then(() => self.skipWaiting())));

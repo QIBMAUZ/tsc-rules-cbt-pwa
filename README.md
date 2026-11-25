@@ -39,18 +39,19 @@ Server-only values required by API routes:
 - `SUPABASE_URL`
 - `SUPABASE_SERVICE_ROLE_KEY`
 - `FLW_SECRET_KEY`
+- `TSC_PRICE_CUTOVER_AT` or `SUBSCRIPTION_PRICE_CUTOVER_AT` — ISO timestamp for the production switch to ₦2,000. This is used only to distinguish trusted pre-cutover ₦1,300 bank-transfer records from new underpayments.
 
 Never expose `SUPABASE_SERVICE_ROLE_KEY` or `FLW_SECRET_KEY` in frontend code.
 
 ## Flutterwave setup
 
-The app opens Flutterwave Checkout for ₦1,300 NGN. The checkout callback sends the transaction id/reference to:
+The app opens Flutterwave Checkout for ₦2,000 NGN. The checkout callback sends the transaction id/reference to:
 
 ```
 /api/verify-flutterwave-payment
 ```
 
-The serverless function verifies the transaction with Flutterwave, confirms successful status, amount `1300`, and currency `NGN`, then activates `user_subscriptions` for the logged-in Supabase user.
+The serverless function verifies the transaction with Flutterwave, confirms successful status, amount `2000`, and currency `NGN`, then activates `user_subscriptions` for the logged-in Supabase user.
 
 ## Restore access
 
@@ -77,7 +78,7 @@ Admins can search by email or payment reference in the app dashboard, review man
 
 The service worker caches static app shell files, icons, background artwork, and `questions.json`. It bypasses Vercel Analytics and all `/api/` requests so auth/payment/admin requests are never cached.
 
-Current cache version: `tsc-rules-cbt-v25`.
+Current cache version: `tsc-rules-cbt-v26`.
 
 ## Test checklist
 

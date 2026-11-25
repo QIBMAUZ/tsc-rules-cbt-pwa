@@ -1,5 +1,6 @@
 const SUPABASE_URL = process.env.SUPABASE_URL;
-const EXPECTED_AMOUNT = 1300;
+const EXPECTED_AMOUNT = 2000;
+const HISTORICAL_AMOUNT = 1300;
 
 function sendJson(response,statusCode,payload){response.status(statusCode).json(payload)}
 function normalize(value){return typeof value === 'string' || typeof value === 'number' ? String(value).trim() : ''}
@@ -47,10 +48,36 @@ async function retireDuplicateSubscription(row,reference,adminEmail){
   if(!row||!row.id)return;
   await supabaseRequest('/rest/v1/user_subscriptions?id=eq.'+encodeURIComponent(row.id),{method:'PATCH',body:{status:'inactive',verified:false,payment_reference:'reassigned:'+reference+':'+new Date().toISOString(),updated_at:new Date().toISOString()},prefer:'return=minimal'});
 }
-async function upsertSubscription({user,email,reference,adminEmail}){
+function trustedCutoverDate(){
+  const raw=normalize(process.env.TSC_PRICE_CUTOVER_AT||process.env.SUBSCRIPTION_PRICE_CUTOVER_AT);
+  if(!raw)return null;
+  const date=new Date(raw);
+  return Number.isNaN(date.getTime())?null:date;
+}
+function isBeforeCutover(value){
+  const cutover=trustedCutoverDate();
+  if(!cutover)return false;
+  const date=new Date(value);
+  return !Number.isNaN(date.getTime())&&date.getTime()<cutover.getTime();
+}
+function validateAttachableAmount(record){
+  const amount=Number(record&&record.amount);
+  if(amount===EXPECTED_AMOUNT)return {ok:true,amount:EXPECTED_AMOUNT,historical:false};
+  if(amount===HISTORICAL_AMOUNT){
+    if(isBeforeCutover(record.created_at))return {ok:true,amount:HISTORICAL_AMOUNT,historical:true};
+    const error=new Error('Historical ₦1,300 payment requires explicit administrator review with trusted pre-cutover evidence before activation.');
+    error.statusCode=409;
+    error.requiresHistoricalReview=true;
+    throw error;
+  }
+  const error=new Error('Amount must be ₦2,000 for new payments, or ₦1,300 only for trusted pre-cutover historical payments.');
+  error.statusCode=400;
+  throw error;
+}
+async function upsertSubscription({user,email,reference,amount=EXPECTED_AMOUNT,adminEmail}){
   const now=new Date().toISOString();
   const existing=await supabaseRequest('/rest/v1/user_subscriptions?select=id&user_id=eq.'+encodeURIComponent(user.id)+'&limit=1');
-  const payload={user_id:user.id,email,status:'active',verified:true,payment_method:'bank_transfer',amount:EXPECTED_AMOUNT,currency:'NGN',payment_reference:reference,paid_at:now,updated_at:now};
+  const payload={user_id:user.id,email,status:'active',verified:true,payment_method:'bank_transfer',amount,currency:'NGN',payment_reference:reference,paid_at:now,updated_at:now};
   if(Array.isArray(existing)&&existing.length){
     await supabaseRequest('/rest/v1/user_subscriptions?id=eq.'+encodeURIComponent(existing[0].id),{method:'PATCH',body:payload,prefer:'return=minimal'});
     return existing[0].id;
@@ -58,9 +85,9 @@ async function upsertSubscription({user,email,reference,adminEmail}){
   const inserted=await supabaseRequest('/rest/v1/user_subscriptions',{method:'POST',body:payload,prefer:'return=representation'});
   return Array.isArray(inserted)&&inserted[0]?inserted[0].id:null;
 }
-async function writeApprovedManualAudit({user,email,payerName,bankName,phone,reference,note,adminEmail}){
+async function writeApprovedManualAudit({user,email,payerName,bankName,phone,reference,note,amount=EXPECTED_AMOUNT,adminEmail}){
   const now=new Date().toISOString();
-  await supabaseRequest('/rest/v1/manual_payment_requests',{method:'POST',body:{user_id:user.id,email,payer_name:payerName,bank_name:bankName||null,phone:phone||null,payment_reference:reference,receipt_url:null,amount:EXPECTED_AMOUNT,status:'approved',reviewed_at:now,reviewed_by:adminEmail,note:note||null},prefer:'return=minimal'});
+  await supabaseRequest('/rest/v1/manual_payment_requests',{method:'POST',body:{user_id:user.id,email,payer_name:payerName,bank_name:bankName||null,phone:phone||null,payment_reference:reference,receipt_url:null,amount,status:'approved',reviewed_at:now,reviewed_by:adminEmail,note:note||null},prefer:'return=minimal'});
 }
 async function ensureReferenceAvailable(reference,targetUserId,confirmReassign,adminEmail){
   const duplicates=await findActiveSubscriptionByReference(reference);
@@ -102,7 +129,7 @@ async function manualActivate(input,admin){
   const phone=normalize(input.phone);
   const note=normalize(input.note);
   const amount=Number(input.amount);
-  if(!email||!payerName||!reference||amount!==EXPECTED_AMOUNT)return {statusCode:400,payload:{success:false,message:'User email, payer name, payment reference, and exact ₦1,300 amount are required'}};
+  if(!email||!payerName||!reference||amount!==EXPECTED_AMOUNT)return {statusCode:400,payload:{success:false,message:'User email, payer name, payment reference, and exact ₦2,000 amount are required'}};
   const targetUser=await findAuthUserByEmail(email);
   if(!targetUser)return {statusCode:404,payload:{success:false,message:'No account exists for this email. Ask the user to create an account first.'}};
   await ensureReferenceAvailable(reference,targetUser.id,input.confirmReassign===true,admin.email||'');
@@ -128,12 +155,18 @@ async function attachExternal(input,admin){
   const rows=await supabaseRequest('/rest/v1/external_payment_records?select=*&id=eq.'+encodeURIComponent(id)+'&limit=1');
   const record=Array.isArray(rows)&&rows.length?rows[0]:null;
   if(!record)return {statusCode:404,payload:{success:false,message:'External payment not found'}};
-  if(Number(record.amount)!==EXPECTED_AMOUNT)return {statusCode:400,payload:{success:false,message:'Amount must be ₦1,300 before activation'}};
+  let amountCheck;
+  try{
+    amountCheck=validateAttachableAmount(record);
+  }catch(error){
+    return {statusCode:error.statusCode||400,payload:{success:false,requiresHistoricalReview:error.requiresHistoricalReview===true,message:error.message}};
+  }
   const targetUser=await findAuthUserByEmail(email);
   if(!targetUser)return {statusCode:404,payload:{success:false,message:'No account exists for this email. Ask the user to create an account first.'}};
   await ensureReferenceAvailable(record.payment_reference,targetUser.id,input.confirmReassign===true,admin.email||'');
-  const subscriptionId=await upsertSubscription({user:targetUser,email,reference:record.payment_reference,adminEmail:admin.email||''});
-  await writeApprovedManualAudit({user:targetUser,email,payerName:record.payer_name,bankName:record.bank_name,phone:record.phone,reference:record.payment_reference,note:record.note,adminEmail:admin.email||''});
+  const subscriptionId=await upsertSubscription({user:targetUser,email,reference:record.payment_reference,amount:amountCheck.amount,adminEmail:admin.email||''});
+  const historicalNote=amountCheck.historical?'Historical pre-cutover ₦1,300 payment attached using trusted external payment record created before configured price cutover. ':'';
+  await writeApprovedManualAudit({user:targetUser,email,payerName:record.payer_name,bankName:record.bank_name,phone:record.phone,reference:record.payment_reference,note:historicalNote+(record.note||''),amount:amountCheck.amount,adminEmail:admin.email||''});
   await supabaseRequest('/rest/v1/external_payment_records?id=eq.'+encodeURIComponent(id),{method:'PATCH',body:{status:'attached',user_id:targetUser.id,email,attached_at:new Date().toISOString(),reviewed_by:admin.email||null},prefer:'return=minimal'});
   return {statusCode:200,payload:{success:true,message:'External payment attached and subscription activated.',subscriptionId}};
 }

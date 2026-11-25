@@ -41,6 +41,9 @@ resetDir(dist);
 const config = {
   VITE_SUPABASE_URL: process.env.VITE_SUPABASE_URL,
   VITE_SUPABASE_ANON_KEY: process.env.VITE_SUPABASE_ANON_KEY,
+  VITE_GOOGLE_CLIENT_ID: process.env.VITE_GOOGLE_CLIENT_ID || '',
+  VITE_GA_ID: process.env.VITE_GA_ID || process.env.NEXT_PUBLIC_GA_ID || 'G-GG2J53LC75',
+  NEXT_PUBLIC_GA_ID: process.env.NEXT_PUBLIC_GA_ID || process.env.VITE_GA_ID || 'G-GG2J53LC75',
 };
 
 fs.writeFileSync(

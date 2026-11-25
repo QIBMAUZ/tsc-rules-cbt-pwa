@@ -1,9 +1,13 @@
 const SUPABASE_URL = process.env.SUPABASE_URL;
-const EXPECTED_AMOUNT = 1300;
+const EXPECTED_AMOUNT = 2000;
+const HISTORICAL_AMOUNT = 1300;
 const BUCKET = 'manual-payment-receipts';
 
 function sendJson(response, statusCode, payload){response.status(statusCode).json(payload)}
 function normalize(value){return typeof value === 'string' || typeof value === 'number' ? String(value).trim() : ''}
+function trustedCutoverDate(){const raw=normalize(process.env.TSC_PRICE_CUTOVER_AT||process.env.SUBSCRIPTION_PRICE_CUTOVER_AT);if(!raw)return null;const date=new Date(raw);return Number.isNaN(date.getTime())?null:date}
+function isBeforeCutover(value){const cutover=trustedCutoverDate();if(!cutover)return false;const date=new Date(value);return !Number.isNaN(date.getTime())&&date.getTime()<cutover.getTime()}
+function validateApprovableAmount(row){const amount=Number(row&&row.amount);if(amount===EXPECTED_AMOUNT)return {ok:true,amount:EXPECTED_AMOUNT,historical:false};if(amount===HISTORICAL_AMOUNT){if(isBeforeCutover(row.created_at))return {ok:true,amount:HISTORICAL_AMOUNT,historical:true};const error=new Error('Historical ₦1,300 payment requires explicit administrator review with trusted pre-cutover evidence before activation.');error.statusCode=409;error.requiresHistoricalReview=true;throw error}const error=new Error('Amount must be ₦2,000 for new payments, or ₦1,300 only for trusted pre-cutover historical payments.');error.statusCode=400;throw error}
 function getBearerToken(request){const value=request.headers.authorization||request.headers.Authorization||'';return value.startsWith('Bearer ')?value.slice(7).trim():''}
 async function readJson(response){try{return await response.json()}catch{return null}}
 async function supabaseRequest(path,{method='GET',body=null,token=null,prefer=null,contentType='application/json'}={}){
@@ -161,9 +165,11 @@ async function reviewRequest(request,response){
     await supabaseRequest('/rest/v1/manual_payment_requests?id=eq.'+encodeURIComponent(id),{method:'PATCH',body:{status:'rejected',reviewed_at:now,reviewed_by:admin.email||admin.id},prefer:'return=minimal'});
     return sendJson(response,200,{success:true,status:'rejected'});
   }
+  let amountCheck;
+  try{amountCheck=validateApprovableAmount(row)}catch(error){return sendJson(response,error.statusCode||400,{success:false,requiresHistoricalReview:error.requiresHistoricalReview===true,message:error.message})}
   await ensureReferenceAvailable(row.payment_reference,row.user_id,input.confirmReassign===true);
   const existing=await supabaseRequest('/rest/v1/user_subscriptions?select=id&user_id=eq.'+encodeURIComponent(row.user_id)+'&limit=1');
-  const subscriptionPayload={user_id:row.user_id,email:row.email,status:'active',verified:true,payment_reference:row.payment_reference,amount:EXPECTED_AMOUNT,currency:'NGN',payment_method:'bank_transfer',paid_at:now,updated_at:now};
+  const subscriptionPayload={user_id:row.user_id,email:row.email,status:'active',verified:true,payment_reference:row.payment_reference,amount:amountCheck.amount,currency:'NGN',payment_method:'bank_transfer',paid_at:now,updated_at:now};
   if(Array.isArray(existing)&&existing.length){
     await supabaseRequest('/rest/v1/user_subscriptions?id=eq.'+encodeURIComponent(existing[0].id),{method:'PATCH',body:subscriptionPayload,prefer:'return=minimal'});
   }else{
